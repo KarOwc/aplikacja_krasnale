@@ -1,0 +1,4446 @@
+{
+    "subtypes": [],
+    "objects": [
+        {
+            "id": 1244,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/100matolog\/",
+            "title": "100matolog",
+            "marker": {
+                "lat": "51.0950719",
+                "lng": "17.05874"
+            },
+            "thumbnail": "\"100matolog",
+            "adres": "ul. Krakowska 26",
+            "telefon": "",
+            "www": "",
+            "slug": "100matolog",
+            "likes": "2690"
+        },
+        {
+            "id": 12655,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/adwokatek\/",
+            "title": "Adwokatek",
+            "marker": {
+                "lat": "51.1063121",
+                "lng": "17.0238982"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "ul. S\u0105dowa 4, Okr\u0119gowa Rada Adwokacka ",
+            "telefon": "",
+            "www": "",
+            "slug": "adwokatek",
+            "likes": "38"
+        },
+        {
+            "id": 6452,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/agorek\/",
+            "title": "Agorek",
+            "marker": {
+                "lat": "51.134909356317536",
+                "lng": "17.0215767110451"
+            },
+            "thumbnail": "\"Agorek\"",
+            "adres": "ul. Serbska",
+            "telefon": "",
+            "www": "",
+            "slug": "agorek",
+            "likes": "1813"
+        },
+        {
+            "id": 1246,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/alpinki\/",
+            "title": "Alpinki",
+            "marker": {
+                "lat": "51.1133229",
+                "lng": "16.9830287"
+            },
+            "thumbnail": "\"alpinki\"",
+            "adres": "ul. Strzegomska 48a",
+            "telefon": "",
+            "www": "",
+            "slug": "alpinki",
+            "likes": "919"
+        },
+        {
+            "id": 11339,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/anielski\/",
+            "title": "Anielski",
+            "marker": {
+                "lat": "51.0572715",
+                "lng": "17.0329526"
+            },
+            "thumbnail": "\"anielski1\"",
+            "adres": "ul. gen. S. Grota Roweckiego 114b",
+            "telefon": "",
+            "www": "",
+            "slug": "anielski",
+            "likes": "397"
+        },
+        {
+            "id": 5464,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/anka\/",
+            "title": "Anka",
+            "marker": {
+                "lat": "51.11113109999999",
+                "lng": "17.020021"
+            },
+            "thumbnail": "\"Anka\"",
+            "adres": "Sokolnicza 7\/17 pawilon 37",
+            "telefon": "",
+            "www": "",
+            "slug": "anka",
+            "likes": "739"
+        },
+        {
+            "id": 10993,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/antek\/",
+            "title": "Antek",
+            "marker": {
+                "lat": "51.064515",
+                "lng": "17.005926"
+            },
+            "thumbnail": "\"antek2\"",
+            "adres": "ul. Wy\u015bcigowa 56e",
+            "telefon": "",
+            "www": "",
+            "slug": "antek",
+            "likes": "478"
+        },
+        {
+            "id": 4547,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/antonio-okulista\/",
+            "title": "Antonio Okulista",
+            "marker": {
+                "lat": "51.11754579999999",
+                "lng": "17.0508778"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "H.Sienkiewicza 33a",
+            "telefon": "",
+            "www": "",
+            "slug": "antonio-okulista",
+            "likes": "596"
+        },
+        {
+            "id": 1606,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/antykwarek\/",
+            "title": "Antykwarek",
+            "marker": {
+                "lat": "51.1020494",
+                "lng": "17.0303429"
+            },
+            "thumbnail": "\"Antykwarek\"",
+            "adres": "pl. Ko\u015bciuszki 15",
+            "telefon": "",
+            "www": "",
+            "slug": "antykwarek",
+            "likes": "441"
+        },
+        {
+            "id": 5463,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wegielek\/",
+            "title": "Automatek",
+            "marker": {
+                "lat": "51.1090412",
+                "lng": "17.0404962"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "pl. Dominika\u0144ski",
+            "telefon": "",
+            "www": "",
+            "slug": "wegielek",
+            "likes": "305"
+        },
+        {
+            "id": 1609,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/babelek-chlapus\/",
+            "title": "B\u0105belek Chlapu\u015b",
+            "marker": {
+                "lat": "51.1126561",
+                "lng": "17.0592248"
+            },
+            "thumbnail": "\"B\u0105belek",
+            "adres": "Plac Grunwaldzki 22",
+            "telefon": "",
+            "www": "",
+            "slug": "babelek-chlapus",
+            "likes": "590"
+        },
+        {
+            "id": 1645,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bajkusia\/",
+            "title": "Bajkusia",
+            "marker": {
+                "lat": "51.122482",
+                "lng": "16.983355"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "K\u0142odnicka 22",
+            "telefon": "",
+            "www": "",
+            "slug": "bajkusia",
+            "likes": "591"
+        },
+        {
+            "id": 5968,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bamboszek\/",
+            "title": "Bamboszek",
+            "marker": {
+                "lat": "51.1063211",
+                "lng": "17.0383863"
+            },
+            "thumbnail": "\"krasnal",
+            "adres": "ul. Piotra Skargi 24-28",
+            "telefon": "",
+            "www": "",
+            "slug": "bamboszek",
+            "likes": "689"
+        },
+        {
+            "id": 1605,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bankomatki\/",
+            "title": "Bankomatki",
+            "marker": {
+                "lat": "51.11192",
+                "lng": "17.03427"
+            },
+            "thumbnail": "\"Bankomatki\"",
+            "adres": "Ku\u017anicza 17-19",
+            "telefon": "",
+            "www": "",
+            "slug": "bankomatki",
+            "likes": "555"
+        },
+        {
+            "id": 1587,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bankus\/",
+            "title": "Banku\u015b",
+            "marker": {
+                "lat": "51.10998470057975",
+                "lng": "17.030293182208993"
+            },
+            "thumbnail": "\"Banku\u015b\"",
+            "adres": "Rynek 8",
+            "telefon": "",
+            "www": "",
+            "slug": "bankus",
+            "likes": "425"
+        },
+        {
+            "id": 1247,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bardus\/",
+            "title": "Bardu\u015b",
+            "marker": {
+                "lat": "51.11316807227651",
+                "lng": "17.01874088220893"
+            },
+            "thumbnail": "\"Bardu\u015b\"",
+            "adres": "ul. Jacka Kaczmarskiego ",
+            "telefon": "",
+            "www": "",
+            "slug": "bardus",
+            "likes": "554"
+        },
+        {
+            "id": 2352,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bartonik\/",
+            "title": "Bartonik",
+            "marker": {
+                "lat": "51.1099395",
+                "lng": "17.032311"
+            },
+            "thumbnail": "\"Bartonik\"",
+            "adres": "Sukiennice 3\/4",
+            "telefon": "",
+            "www": "",
+            "slug": "bartonik",
+            "likes": "838"
+        },
+        {
+            "id": 1599,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bawarka\/",
+            "title": "Bawarka",
+            "marker": {
+                "lat": "51.110150450071316",
+                "lng": "17.033033337573215"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Rynek 24",
+            "telefon": "",
+            "www": "",
+            "slug": "bawarka",
+            "likes": "470"
+        },
+        {
+            "id": 11608,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/beanka\/",
+            "title": "BEAnka",
+            "marker": {
+                "lat": "51.1084358",
+                "lng": "17.0649242"
+            },
+            "thumbnail": "\"Zdj\u0119cie-00048\"",
+            "adres": "ul. Ignacego \u0141ukasiewicza",
+            "telefon": "",
+            "www": "",
+            "slug": "beanka",
+            "likes": "150"
+        },
+        {
+            "id": 5385,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bernas-i-warchlas\/",
+            "title": "Berna\u015b i Warchla\u015b",
+            "marker": {
+                "lat": "51.115355",
+                "lng": "17.0256261"
+            },
+            "thumbnail": "\"berna\u015b",
+            "adres": "Ksi\u0119cia Witolda 49",
+            "telefon": "",
+            "www": "",
+            "slug": "bernas-i-warchlas",
+            "likes": "342"
+        },
+        {
+            "id": 1248,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bibliofil\/",
+            "title": "Bibliofil",
+            "marker": {
+                "lat": "51.10557886504573",
+                "lng": "17.032796848548855"
+            },
+            "thumbnail": "\"Bibliofil\"",
+            "adres": "Plac Teatralny pod Mediatek\u0105",
+            "telefon": "",
+            "www": "",
+            "slug": "bibliofil",
+            "likes": "355"
+        },
+        {
+            "id": 11626,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bolizabek\/",
+            "title": "Boliz\u0105bek",
+            "marker": {
+                "lat": "51.0839489",
+                "lng": "17.0537579"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Nyska 70",
+            "telefon": "",
+            "www": "",
+            "slug": "bolizabek",
+            "likes": "168"
+        },
+        {
+            "id": 1593,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/botanik\/",
+            "title": "Botanik",
+            "marker": {
+                "lat": "51.11597274837432",
+                "lng": "17.04792015344242"
+            },
+            "thumbnail": "\"botanik\"",
+            "adres": "Sienkiewicza 23",
+            "telefon": "",
+            "www": "",
+            "slug": "botanik",
+            "likes": "382"
+        },
+        {
+            "id": 2353,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/budinpolek\/",
+            "title": "Budinpolek",
+            "marker": {
+                "lat": "51.1116626",
+                "lng": "16.9716883"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Traktatowa 1",
+            "telefon": "",
+            "www": "",
+            "slug": "budinpolek",
+            "likes": "279"
+        },
+        {
+            "id": 12683,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/budowniczy\/",
+            "title": "Budowniczy",
+            "marker": {
+                "lat": "51.1138019",
+                "lng": "17.0209917"
+            },
+            "thumbnail": "\"budowniczy2\"",
+            "adres": "ul. Sikorskiego 19 ",
+            "telefon": "",
+            "www": "",
+            "slug": "budowniczy",
+            "likes": "10"
+        },
+        {
+            "id": 1250,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/bumarek-i-fadromka\/",
+            "title": "Bumarek i Fadromka",
+            "marker": {
+                "lat": "51.0992358",
+                "lng": "16.9968722"
+            },
+            "thumbnail": "\"Bumarek",
+            "adres": "Grabiszy\u0144ska 163",
+            "telefon": "",
+            "www": "",
+            "slug": "bumarek-i-fadromka",
+            "likes": "409"
+        },
+        {
+            "id": 11235,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/capgeminiusz-programista\/",
+            "title": "Capgeminiusz Programista",
+            "marker": {
+                "lat": "51.1091715301157",
+                "lng": "17.033036511608884"
+            },
+            "thumbnail": "\"korpokrasnal1\"",
+            "adres": "ul. \u015awidnicka 2-4, Wroc\u0142aw; obok \u015brodkowej rze\u017aby (fali) z kamienia ",
+            "telefon": "",
+            "www": "",
+            "slug": "capgeminiusz-programista",
+            "likes": "297"
+        },
+        {
+            "id": 12637,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/cebitek\/",
+            "title": "Cebitek",
+            "marker": {
+                "lat": "51.1727289",
+                "lng": "17.005294"
+            },
+            "thumbnail": "\"cebitek2\"",
+            "adres": "",
+            "telefon": "",
+            "www": "",
+            "slug": "cebitek",
+            "likes": "26"
+        },
+        {
+            "id": 5996,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/centrostalus\/",
+            "title": "Centrostalu\u015b",
+            "marker": {
+                "lat": "51.1607253",
+                "lng": "17.0045822"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Pe\u0142czy\u0144ska 4",
+            "telefon": "",
+            "www": "",
+            "slug": "centrostalus",
+            "likes": "263"
+        },
+        {
+            "id": 10616,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/cermigiusz\/",
+            "title": "Cermigiusz",
+            "marker": {
+                "lat": "51.1132253",
+                "lng": "16.9996387"
+            },
+            "thumbnail": "\"cermigiusz1\"",
+            "adres": "Salon CERMAG, ul. Strzegomska 38-40, Wroc\u0142aw 53-611 ",
+            "telefon": "",
+            "www": "",
+            "slug": "cermigiusz",
+            "likes": "423"
+        },
+        {
+            "id": 6285,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/chemik\/",
+            "title": "Chemik",
+            "marker": {
+                "lat": "51.10714369999999",
+                "lng": "17.0610568"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Wyb. Wyspia\u0144skiego",
+            "telefon": "",
+            "www": "",
+            "slug": "chemik",
+            "likes": "311"
+        },
+        {
+            "id": 1616,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/chirurg\/",
+            "title": "Chirurg",
+            "marker": {
+                "lat": "51.10925220000001",
+                "lng": "17.067528"
+            },
+            "thumbnail": "\"Chirurg\"",
+            "adres": "ul M. Curie-Sk\u0142odowskiej 66",
+            "telefon": "",
+            "www": "",
+            "slug": "chirurg",
+            "likes": "297"
+        },
+        {
+            "id": 1251,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/chlapibrzuch-i-moczypieta\/",
+            "title": "Chlapibrzuch i Moczypi\u0119ta",
+            "marker": {
+                "lat": "51.0909434",
+                "lng": "17.032314"
+            },
+            "thumbnail": "\"Chlapibrzuch",
+            "adres": "Borowska 99",
+            "telefon": "",
+            "www": "",
+            "slug": "chlapibrzuch-i-moczypieta",
+            "likes": "285"
+        },
+        {
+            "id": 1586,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/chodziarz\/",
+            "title": "Chodziarz",
+            "marker": {
+                "lat": "51.104531325571074",
+                "lng": "17.031081779098486"
+            },
+            "thumbnail": "\"Chodziarz\"",
+            "adres": "ul. \u015awidnicka 38",
+            "telefon": "",
+            "www": "",
+            "slug": "chodziarz",
+            "likes": "296"
+        },
+        {
+            "id": 1252,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/chrapek\/",
+            "title": "Chrapek",
+            "marker": {
+                "lat": "51.1118986",
+                "lng": "17.0297236"
+            },
+            "thumbnail": "\"Chrapek\"",
+            "adres": "ul. Kie\u0142ba\u015bnicza 24-25",
+            "telefon": "",
+            "www": "",
+            "slug": "chrapek",
+            "likes": "444"
+        },
+        {
+            "id": 4805,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ciastus-i-amorinek\/",
+            "title": "Ciastu\u015b i Amorinek",
+            "marker": {
+                "lat": "51.1104760130659",
+                "lng": "17.033679533729583"
+            },
+            "thumbnail": "\"Amorinek\"",
+            "adres": "Wita Stwosza 1-2",
+            "telefon": "",
+            "www": "",
+            "slug": "ciastus-i-amorinek",
+            "likes": "351"
+        },
+        {
+            "id": 5409,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ciezarowiec\/",
+            "title": "Ci\u0119\u017carowiec",
+            "marker": {
+                "lat": "51.0971789",
+                "lng": "16.99813"
+            },
+            "thumbnail": "\"Krasnal",
+            "adres": "Hotel \u015al\u0105sk, ul. Oporowska 60",
+            "telefon": "",
+            "www": "",
+            "slug": "ciezarowiec",
+            "likes": "654"
+        },
+        {
+            "id": 1624,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/clara\/",
+            "title": "Clara",
+            "marker": {
+                "lat": "51.1273089",
+                "lng": "17.025709"
+            },
+            "thumbnail": "\"Clara",
+            "adres": "ul. Kleczkowska 45",
+            "telefon": "",
+            "www": "",
+            "slug": "clara",
+            "likes": "356"
+        },
+        {
+            "id": 11220,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/consulencjusz-italicus\/",
+            "title": "Consulencjusz Italicus",
+            "marker": {
+                "lat": "51.0749128",
+                "lng": "17.0035804"
+            },
+            "thumbnail": "\"CONSULENCJUSZ",
+            "adres": "Wawrzyniaka 6, 53-020 Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "consulencjusz-italicus",
+            "likes": "202"
+        },
+        {
+            "id": 5935,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/czajczynski\/",
+            "title": "Czajczy\u0144ski",
+            "marker": {
+                "lat": "51.1114675",
+                "lng": "17.0275916"
+            },
+            "thumbnail": "\"czajczynski\"",
+            "adres": "Bia\u0142osk\u00f3rnicza 10",
+            "telefon": "",
+            "www": "",
+            "slug": "czajczynski",
+            "likes": "239"
+        },
+        {
+            "id": 1673,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dabrek-pierwszy\/",
+            "title": "D\u0105brek Pierwszy",
+            "marker": {
+                "lat": "51.12066550000001",
+                "lng": "17.0558569"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Nowowiejska 78\/80",
+            "telefon": "",
+            "www": "",
+            "slug": "dabrek-pierwszy",
+            "likes": "231"
+        },
+        {
+            "id": 10313,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dedaliusz\/",
+            "title": "Dedaliusz",
+            "marker": {
+                "lat": "51.1273916",
+                "lng": "16.9655368"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Bulwar Dedala",
+            "telefon": "",
+            "www": "",
+            "slug": "dedaliusz",
+            "likes": "402"
+        },
+        {
+            "id": 12098,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dekoralek\/",
+            "title": "Dekoralek",
+            "marker": {
+                "lat": "51.12784689999999",
+                "lng": "17.1015832"
+            },
+            "thumbnail": "\"dekoralek\"",
+            "adres": "ul. Kwidzy\u0144ska 8",
+            "telefon": "",
+            "www": "",
+            "slug": "dekoralek",
+            "likes": "87"
+        },
+        {
+            "id": 4406,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/diagnozjusz\/",
+            "title": "Diagnozjusz",
+            "marker": {
+                "lat": "51.0752035",
+                "lng": "17.0329619"
+            },
+            "thumbnail": "\"krasnal",
+            "adres": "ul. Borowska 211",
+            "telefon": "",
+            "www": "",
+            "slug": "diagnozjusz",
+            "likes": "228"
+        },
+        {
+            "id": 1670,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dialogomir\/",
+            "title": "Dialogomir",
+            "marker": {
+                "lat": "51.1093126",
+                "lng": "17.0288395"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "pl. Solny",
+            "telefon": "",
+            "www": "",
+            "slug": "dialogomir",
+            "likes": "218"
+        },
+        {
+            "id": 1597,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dlugi-2\/",
+            "title": "D\u0142ugi",
+            "marker": {
+                "lat": "51.1089069",
+                "lng": "17.029478"
+            },
+            "thumbnail": "\"D\u0142ugi\"",
+            "adres": "pl. Solny 16",
+            "telefon": "",
+            "www": "",
+            "slug": "dlugi-2",
+            "likes": "241"
+        },
+        {
+            "id": 10723,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dobrotek\/",
+            "title": "Dobrotek",
+            "marker": {
+                "lat": "51.1226961",
+                "lng": "16.9206913"
+            },
+            "thumbnail": "\"dobrotek1\"",
+            "adres": "ul. Objazdowa 50, KOKSZTYS Kancelaria Prawa Gospodarczego Sp\u00f3\u0142ka komandytowa",
+            "telefon": "",
+            "www": "",
+            "slug": "dobrotek",
+            "likes": "237"
+        },
+        {
+            "id": 12384,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/doktor-basia\/",
+            "title": "Doktor Basia",
+            "marker": {
+                "lat": "51.1047527",
+                "lng": "17.1177611"
+            },
+            "thumbnail": "\"KRASNAL-DR-BASIA\"",
+            "adres": "Canaletta 53",
+            "telefon": "",
+            "www": "",
+            "slug": "doktor-basia",
+            "likes": "126"
+        },
+        {
+            "id": 1253,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/drukarz\/",
+            "title": "Drukarz",
+            "marker": {
+                "lat": "51.1391846",
+                "lng": "16.9919646"
+            },
+            "thumbnail": "\"Drukarz\"",
+            "adres": "ul. Osobowicka 89",
+            "telefon": "",
+            "www": "",
+            "slug": "drukarz",
+            "likes": "218"
+        },
+        {
+            "id": 12543,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/drukarz-kacper\/",
+            "title": "Drukarz Kacper",
+            "marker": {
+                "lat": "51.1145524",
+                "lng": "17.0431946"
+            },
+            "thumbnail": "\"P1170233\"",
+            "adres": "ul. Katedralna 3",
+            "telefon": "",
+            "www": "",
+            "slug": "drukarz-kacper",
+            "likes": "52"
+        },
+        {
+            "id": 1254,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dryndek\/",
+            "title": "Dryndek",
+            "marker": {
+                "lat": "51.1100028",
+                "lng": "17.0334137"
+            },
+            "thumbnail": "\"Dryndek\"",
+            "adres": "Rynek 35",
+            "telefon": "",
+            "www": "",
+            "slug": "dryndek",
+            "likes": "211"
+        },
+        {
+            "id": 11150,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dyslektus\/",
+            "title": "Dyslektu\u015b",
+            "marker": {
+                "lat": "51.076938",
+                "lng": "17.082143"
+            },
+            "thumbnail": "\"1\"",
+            "adres": "Bytomska 7",
+            "telefon": "",
+            "www": "",
+            "slug": "dyslektus",
+            "likes": "192"
+        },
+        {
+            "id": 11565,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dzarus\/",
+            "title": "D\u017caru\u015b",
+            "marker": {
+                "lat": "51.1091758",
+                "lng": "17.0319842"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Rynek 23",
+            "telefon": "",
+            "www": "",
+            "slug": "dzarus",
+            "likes": "112"
+        },
+        {
+            "id": 1255,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/edukacjusz\/",
+            "title": "Edukacjusz",
+            "marker": {
+                "lat": "51.09383492634176",
+                "lng": "17.061873105557197"
+            },
+            "thumbnail": "\"Edukacjusz\"",
+            "adres": "ul. Krakowska 56-62",
+            "telefon": "",
+            "www": "",
+            "slug": "edukacjusz",
+            "likes": "174"
+        },
+        {
+            "id": 1580,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ekonomek\/",
+            "title": "Ekonomek",
+            "marker": {
+                "lat": "51.091086",
+                "lng": "17.024756"
+            },
+            "thumbnail": "\"Ekonomek\"",
+            "adres": "ul. Komandorska 118\/120",
+            "telefon": "",
+            "www": "",
+            "slug": "ekonomek",
+            "likes": "186"
+        },
+        {
+            "id": 1633,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ekonomik\/",
+            "title": "Ekonomik",
+            "marker": {
+                "lat": "51.1044856",
+                "lng": "17.0431374"
+            },
+            "thumbnail": "\"Ekonomik\"",
+            "adres": "ul. Worcella 3",
+            "telefon": "",
+            "www": "",
+            "slug": "ekonomik",
+            "likes": "183"
+        },
+        {
+            "id": 1661,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/eldzej-i-modulek\/",
+            "title": "Eld\u017cej i Modu\u0142ek",
+            "marker": {
+                "lat": "51.02606549999999",
+                "lng": "16.8921972"
+            },
+            "thumbnail": "\"Eld\u017cej",
+            "adres": "ul. LG 1 (Biskupice Podg\u00f3rne k\/Wroc\u0142awia)",
+            "telefon": "",
+            "www": "",
+            "slug": "eldzej-i-modulek",
+            "likes": "237"
+        },
+        {
+            "id": 5880,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/elwrus-lutowniczek\/",
+            "title": "Elwru\u015b Lutowniczek",
+            "marker": {
+                "lat": "51.1118774",
+                "lng": "17.009642"
+            },
+            "thumbnail": "\"elwru\u015b",
+            "adres": "ul. Braniborska 57",
+            "telefon": "",
+            "www": "",
+            "slug": "elwrus-lutowniczek",
+            "likes": "180"
+        },
+        {
+            "id": 11336,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/endress-i-hauser\/",
+            "title": "Endress i Hauser",
+            "marker": {
+                "lat": "51.1468102",
+                "lng": "17.0292015"
+            },
+            "thumbnail": "\"Endress",
+            "adres": "ul. Wo\u0142owska 11, Endress+Hauser Polska sp. z o.o. ",
+            "telefon": "",
+            "www": "",
+            "slug": "endress-i-hauser",
+            "likes": "151"
+        },
+        {
+            "id": 12348,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/epamek\/",
+            "title": "EPAMek",
+            "marker": {
+                "lat": "51.1068168",
+                "lng": "17.0383383"
+            },
+            "thumbnail": "\"krasnal",
+            "adres": "PIOTRA SKARGI 1, 50-082 WROC\u0141AW, EPAM SYSTEMS SP Z.O.O ",
+            "telefon": "",
+            "www": "",
+            "slug": "epamek",
+            "likes": "65"
+        },
+        {
+            "id": 12433,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/erstynek\/",
+            "title": "ERSTynek",
+            "marker": {
+                "lat": "51.0855089",
+                "lng": "17.0104432"
+            },
+            "thumbnail": "\"ERSTynek2\"",
+            "adres": "Rac\u0142awicka 2-4 ",
+            "telefon": "",
+            "www": "",
+            "slug": "erstynek",
+            "likes": "44"
+        },
+        {
+            "id": 1256,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/esencjusz\/",
+            "title": "Esencjusz",
+            "marker": {
+                "lat": "51.1096231",
+                "lng": "17.034037"
+            },
+            "thumbnail": "\"Esencjusz\"",
+            "adres": "ul. Kurzy Targ",
+            "telefon": "",
+            "www": "",
+            "slug": "esencjusz",
+            "likes": "160"
+        },
+        {
+            "id": 5469,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/eskulapek\/",
+            "title": "Eskulapek",
+            "marker": {
+                "lat": "51.1074376",
+                "lng": "17.0306609"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Kazimierza Wielkiego 45",
+            "telefon": "",
+            "www": "",
+            "slug": "eskulapek",
+            "likes": "160"
+        },
+        {
+            "id": 5783,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/europejczyk\/",
+            "title": "Europejczyk",
+            "marker": {
+                "lat": "51.10041280000001",
+                "lng": "17.0343593"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Pi\u0142sudskiego 88",
+            "telefon": "",
+            "www": "",
+            "slug": "europejczyk",
+            "likes": "233"
+        },
+        {
+            "id": 6301,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/faksymilka\/",
+            "title": "Faksymilka",
+            "marker": {
+                "lat": "51.109974",
+                "lng": "17.049633"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "plac Powsta\u0144c\u00f3w Warszawy 1 (Urz\u0105d Wojew\u00f3dzki)",
+            "telefon": "",
+            "www": "",
+            "slug": "faksymilka",
+            "likes": "164"
+        },
+        {
+            "id": 5191,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/farciarz\/",
+            "title": "Farciarz",
+            "marker": {
+                "lat": "51.1112849",
+                "lng": "17.0308375"
+            },
+            "thumbnail": "\"farciarz\"",
+            "adres": "ul. Odrza\u0144ska 39\/40, Kamieniczka \"Ma\u0142gosia\"",
+            "telefon": "",
+            "www": "",
+            "slug": "farciarz",
+            "likes": "248"
+        },
+        {
+            "id": 5894,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/farmaceuta\/",
+            "title": "Farmaceuta Akademicki",
+            "marker": {
+                "lat": "51.0752035",
+                "lng": "17.0329619"
+            },
+            "thumbnail": "\"WP_20140715_041",
+            "adres": "Borowska 211",
+            "telefon": "",
+            "www": "",
+            "slug": "farmaceuta",
+            "likes": "153"
+        },
+        {
+            "id": 5162,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/farmacjusz-2\/",
+            "title": "Farmacjusz",
+            "marker": {
+                "lat": "51.080051",
+                "lng": "17.0567786"
+            },
+            "thumbnail": "\"farmacjusz\"",
+            "adres": "ul. Zi\u0119bicka 40, Us Pharmacia",
+            "telefon": "",
+            "www": "",
+            "slug": "farmacjusz-2",
+            "likes": "184"
+        },
+        {
+            "id": 5893,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/fatus\/",
+            "title": "FATu\u015b",
+            "marker": {
+                "lat": "51.09531029999999",
+                "lng": "16.9802059"
+            },
+            "thumbnail": "\"Fatu\u015b\"",
+            "adres": "ul. Grabiszy\u0144ska 281",
+            "telefon": "",
+            "www": "",
+            "slug": "fatus",
+            "likes": "180"
+        },
+        {
+            "id": 1669,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/fizolek\/",
+            "title": "Fizolek",
+            "marker": {
+                "lat": "51.11570047115785",
+                "lng": "17.102322578430176"
+            },
+            "thumbnail": "\"Fizolek\"",
+            "adres": "Fizjoterapia AWF, budynek P-4, ul. Mickiewicza",
+            "telefon": "",
+            "www": "",
+            "slug": "fizolek",
+            "likes": "162"
+        },
+        {
+            "id": 1608,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/florianek\/",
+            "title": "Florianek",
+            "marker": {
+                "lat": "51.1067376",
+                "lng": "17.0320754"
+            },
+            "thumbnail": "\"Florianek\"",
+            "adres": "\u015awidnicka 18\/20",
+            "telefon": "",
+            "www": "",
+            "slug": "florianek",
+            "likes": "245"
+        },
+        {
+            "id": 1257,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/freudek\/",
+            "title": "Freudek",
+            "marker": {
+                "lat": "51.094686",
+                "lng": "17.0372969"
+            },
+            "thumbnail": "\"Freudek\"",
+            "adres": "ul. Dawida 1\/3",
+            "telefon": "",
+            "www": "",
+            "slug": "freudek",
+            "likes": "170"
+        },
+        {
+            "id": 1258,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/fuger\/",
+            "title": "Fuger",
+            "marker": {
+                "lat": "51.11275029999999",
+                "lng": "16.9809039"
+            },
+            "thumbnail": "\"Fuger\"",
+            "adres": "ul. Fabryczna 29\/31",
+            "telefon": "",
+            "www": "",
+            "slug": "fuger",
+            "likes": "152"
+        },
+        {
+            "id": 5969,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gangsterek\/",
+            "title": "Gangsterek",
+            "marker": {
+                "lat": "51.13413728848699",
+                "lng": "17.03060030937195"
+            },
+            "thumbnail": "",
+            "adres": "Macedo\u0144ska",
+            "telefon": "",
+            "www": "",
+            "slug": "gangsterek",
+            "likes": "279"
+        },
+        {
+            "id": 1259,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gasiorek\/",
+            "title": "Gasiorek",
+            "marker": {
+                "lat": "51.082423",
+                "lng": "17.0351219"
+            },
+            "thumbnail": "\"Gasiorek\"",
+            "adres": "ul. Borowska 138",
+            "telefon": "",
+            "www": "",
+            "slug": "gasiorek",
+            "likes": "157"
+        },
+        {
+            "id": 1260,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gastronomek\/",
+            "title": "Gastronomek (skradziony)",
+            "marker": {
+                "lat": "51.088549",
+                "lng": "17.0355893"
+            },
+            "thumbnail": "\"Gastronomek\"",
+            "adres": " ul. Kamienna 86",
+            "telefon": "",
+            "www": "",
+            "slug": "gastronomek",
+            "likes": "224"
+        },
+        {
+            "id": 6198,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gaviusz\/",
+            "title": "Gaviusz",
+            "marker": {
+                "lat": "51.09368019999999",
+                "lng": "17.0590601"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Krakowska 19-23",
+            "telefon": "",
+            "www": "",
+            "slug": "gaviusz",
+            "likes": "144"
+        },
+        {
+            "id": 1625,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gazeciarz\/",
+            "title": "Gazeciarz",
+            "marker": {
+                "lat": "51.10239688320781",
+                "lng": "17.03004777431488"
+            },
+            "thumbnail": "\"Gazeciarz\"",
+            "adres": "Okr\u0105glak, Kiosk Ruchu, pl. Ko\u015bciuszki",
+            "telefon": "",
+            "www": "",
+            "slug": "gazeciarz",
+            "likes": "187"
+        },
+        {
+            "id": 1600,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gazus\/",
+            "title": "Gazu\u015b",
+            "marker": {
+                "lat": "51.1147509",
+                "lng": "17.0417761"
+            },
+            "thumbnail": "\"Gazus\"",
+            "adres": "Most Tumski",
+            "telefon": "",
+            "www": "",
+            "slug": "gazus",
+            "likes": "199"
+        },
+        {
+            "id": 1261,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/geolog\/",
+            "title": "Geolog",
+            "marker": {
+                "lat": "51.1162528",
+                "lng": "17.0306173"
+            },
+            "thumbnail": "\"Geolog\"",
+            "adres": "ul. Cybulskiego 30-34",
+            "telefon": "",
+            "www": "",
+            "slug": "geolog",
+            "likes": "166"
+        },
+        {
+            "id": 4320,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/germazowy-onkus\/",
+            "title": "Germazowy Onku\u015b",
+            "marker": {
+                "lat": "51.1145782",
+                "lng": "16.9754645"
+            },
+            "thumbnail": "\"KONICA",
+            "adres": "Strzegomska 139",
+            "telefon": "",
+            "www": "",
+            "slug": "germazowy-onkus",
+            "likes": "181"
+        },
+        {
+            "id": 1589,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gieldus\/",
+            "title": "Gie\u0142du\u015b",
+            "marker": {
+                "lat": "51.1089069",
+                "lng": "17.029478"
+            },
+            "thumbnail": "\"gieldus_c\"",
+            "adres": "plac Solny 16",
+            "telefon": "",
+            "www": "",
+            "slug": "gieldus",
+            "likes": "156"
+        },
+        {
+            "id": 1262,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/giermek\/",
+            "title": "Giermek Grun-Waldek",
+            "marker": {
+                "lat": "51.11199601940462",
+                "lng": "17.05988998783573"
+            },
+            "thumbnail": "\"Giermek\"",
+            "adres": " Plac Grunwaldzki 22",
+            "telefon": "",
+            "www": "",
+            "slug": "giermek",
+            "likes": "191"
+        },
+        {
+            "id": 6106,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gilbert-grape\/",
+            "title": "Gilbert Grape",
+            "marker": {
+                "lat": "51.11005189999999",
+                "lng": "17.0731599"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Parkowa 8",
+            "telefon": "",
+            "www": "",
+            "slug": "gilbert-grape",
+            "likes": "125"
+        },
+        {
+            "id": 1647,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/gimnazjalista\/",
+            "title": "Gimnazjalista",
+            "marker": {
+                "lat": "51.136988",
+                "lng": "17.027419"
+            },
+            "thumbnail": "\"Gimnazjalista\"",
+            "adres": "ul. Czeska 40",
+            "telefon": "",
+            "www": "",
+            "slug": "gimnazjalista",
+            "likes": "184"
+        },
+        {
+            "id": 10518,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/goldus\/",
+            "title": "Goldu\u015b",
+            "marker": {
+                "lat": "51.0715633",
+                "lng": "17.0340362"
+            },
+            "thumbnail": "\"goldus1\"",
+            "adres": "ul. Jerzego Kukuczki 5, 50-570 Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "goldus",
+            "likes": "167"
+        },
+        {
+            "id": 1263,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/golebnik\/",
+            "title": "Go\u0142\u0119bnik",
+            "marker": {
+                "lat": "51.10994533318958",
+                "lng": "17.031111843516555"
+            },
+            "thumbnail": "\"Go\u0142\u0119bnik\"",
+            "adres": "rynek Ratusz 2",
+            "telefon": "",
+            "www": "",
+            "slug": "golebnik",
+            "likes": "246"
+        },
+        {
+            "id": 1264,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/grajek-i-meloman\/",
+            "title": "Grajek i Meloman",
+            "marker": {
+                "lat": "51.1084229",
+                "lng": "17.0349149"
+            },
+            "thumbnail": "\"Grajek",
+            "adres": "ul. O\u0142awska 11",
+            "telefon": "",
+            "www": "",
+            "slug": "grajek-i-meloman",
+            "likes": "198"
+        },
+        {
+            "id": 5230,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/hapek\/",
+            "title": "HaPek",
+            "marker": {
+                "lat": "51.091071",
+                "lng": "17.015318"
+            },
+            "thumbnail": "\"HaPu\u015b",
+            "adres": "ul. Powsta\u0144c\u00f3w \u015al\u0105skich 7A",
+            "telefon": "",
+            "www": "",
+            "slug": "hapek",
+            "likes": "190"
+        },
+        {
+            "id": 1639,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/harcerz\/",
+            "title": "Harcerz",
+            "marker": {
+                "lat": "51.105579",
+                "lng": "17.039276"
+            },
+            "thumbnail": "\"Harcerz\"",
+            "adres": "ul. Nowa 6",
+            "telefon": "",
+            "www": "",
+            "slug": "harcerz",
+            "likes": "204"
+        },
+        {
+            "id": 5786,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/harfus\/",
+            "title": "Harfu\u015b",
+            "marker": {
+                "lat": "51.10943647388986",
+                "lng": "17.000709772109985"
+            },
+            "thumbnail": "\"harfu\u015b",
+            "adres": "ul. Robotnicza 52a",
+            "telefon": "",
+            "www": "",
+            "slug": "harfus",
+            "likes": "262"
+        },
+        {
+            "id": 1314,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zoolog\/",
+            "title": "Hipoczy\u015bciciel",
+            "marker": {
+                "lat": "51.1041258",
+                "lng": "17.074197"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Wr\u00f3blewskiego 1-5",
+            "telefon": "",
+            "www": "",
+            "slug": "zoolog",
+            "likes": "232"
+        },
+        {
+            "id": 1595,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/dlugi\/",
+            "title": "Hohelka",
+            "marker": {
+                "lat": "51.110872",
+                "lng": "17.0394219"
+            },
+            "thumbnail": "\"Hohelka\"",
+            "adres": "Pl. Nowy Targ 27 ",
+            "telefon": "",
+            "www": "",
+            "slug": "dlugi",
+            "likes": "198"
+        },
+        {
+            "id": 1265,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/honorek\/",
+            "title": "Honorek",
+            "marker": {
+                "lat": "51.1161734",
+                "lng": "17.0648095"
+            },
+            "thumbnail": "\"Honorek\"",
+            "adres": "ul. Czerwonego Krzy\u017ca 5\/9",
+            "telefon": "",
+            "www": "",
+            "slug": "honorek",
+            "likes": "183"
+        },
+        {
+            "id": 6045,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/hortus\/",
+            "title": "Hortu\u015b",
+            "marker": {
+                "lat": "51.1828282",
+                "lng": "17.0277881"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "ul. G\u0142\u00f3wna 1C, Psary",
+            "telefon": "",
+            "www": "",
+            "slug": "hortus",
+            "likes": "157"
+        },
+        {
+            "id": 5943,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/hugonek\/",
+            "title": "Hugonek",
+            "marker": {
+                "lat": "51.1247054",
+                "lng": "16.9981139"
+            },
+            "thumbnail": "\"hugonek\"",
+            "adres": "Jelenia 7",
+            "telefon": "",
+            "www": "",
+            "slug": "hugonek",
+            "likes": "136"
+        },
+        {
+            "id": 11383,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/hydrotechnik\/",
+            "title": "Hydrotechnik",
+            "marker": {
+                "lat": "51.11554240517524",
+                "lng": "17.03091874603274"
+            },
+            "thumbnail": "\"hydrotechnik\"",
+            "adres": "teren Jaz Wroc\u0142aw I - ogrodzenie wyeksponowanego starego upustu p\u0142ucz\u0105cego ",
+            "telefon": "",
+            "www": "",
+            "slug": "hydrotechnik",
+            "likes": "103"
+        },
+        {
+            "id": 12544,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ikus\/",
+            "title": "Iku\u015b",
+            "marker": {
+                "lat": "51.048691",
+                "lng": "16.9566549"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "ul. Czekoladowa 5a",
+            "telefon": "",
+            "www": "",
+            "slug": "ikus",
+            "likes": "50"
+        },
+        {
+            "id": 1266,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/implus\/",
+            "title": "Implu\u015b",
+            "marker": {
+                "lat": "51.0816609",
+                "lng": "17.0239829"
+            },
+            "thumbnail": "\"Untitled-1\"",
+            "adres": "ul. \u015al\u0119\u017cna 118",
+            "telefon": "",
+            "www": "",
+            "slug": "implus",
+            "likes": "151"
+        },
+        {
+            "id": 10330,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/innowalek\/",
+            "title": "Innowa\u0142ek",
+            "marker": {
+                "lat": "51.10299639999999",
+                "lng": "17.0505479"
+            },
+            "thumbnail": "\"inn2\"",
+            "adres": "ul. Traugutta, Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "innowalek",
+            "likes": "166"
+        },
+        {
+            "id": 1617,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/insercik\/",
+            "title": "Insercik",
+            "marker": {
+                "lat": "51.1253094",
+                "lng": "16.9132397"
+            },
+            "thumbnail": "",
+            "adres": "ul. Jerzmanowska 2",
+            "telefon": "",
+            "www": "",
+            "slug": "insercik",
+            "likes": "136"
+        },
+        {
+            "id": 5649,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/inspektor-pracy-ipek\/",
+            "title": "Inspektor Pracy - IPek",
+            "marker": {
+                "lat": "51.1093944",
+                "lng": "17.0855851"
+            },
+            "thumbnail": "\"Inspektor",
+            "adres": "O\u015brodek Szkolenia Pa\u0144stwowej Inspekcji Pracy, ul. M. Kopernika 5",
+            "telefon": "",
+            "www": "",
+            "slug": "inspektor-pracy-ipek",
+            "likes": "166"
+        },
+        {
+            "id": 1620,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/inwigilus\/",
+            "title": "Inwigilu\u015b",
+            "marker": {
+                "lat": "51.1179621",
+                "lng": "17.0491529"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "al. Matejki 6",
+            "telefon": "",
+            "www": "",
+            "slug": "inwigilus",
+            "likes": "120"
+        },
+        {
+            "id": 12573,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/irtek\/",
+            "title": "Irtek",
+            "marker": {
+                "lat": "51.093885",
+                "lng": "17.0375999"
+            },
+            "thumbnail": "\"irtek_MZ\"",
+            "adres": "",
+            "telefon": "",
+            "www": "",
+            "slug": "irtek",
+            "likes": "51"
+        },
+        {
+            "id": 11153,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/janinek\/",
+            "title": "Janinek",
+            "marker": {
+                "lat": "51.11136",
+                "lng": "17.033655"
+            },
+            "thumbnail": "\"janinek2\"",
+            "adres": "ul. Ku\u017anicza 57\/58, przy wej\u015bciu do firmy Bio-Kosmetyka ",
+            "telefon": "",
+            "www": "",
+            "slug": "janinek",
+            "likes": "121"
+        },
+        {
+            "id": 1649,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/jasek\/",
+            "title": "Jasek",
+            "marker": {
+                "lat": "51.175024",
+                "lng": "17.0232749"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Su\u0142owska 39",
+            "telefon": "",
+            "www": "",
+            "slug": "jasek",
+            "likes": "138"
+        },
+        {
+            "id": 10986,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/jedrus\/",
+            "title": "J\u0119dru\u015b",
+            "marker": {
+                "lat": "51.1109855",
+                "lng": "17.0280499"
+            },
+            "thumbnail": "\"j\u0119drus2\"",
+            "adres": "Coctail Bar Max & Dom Whisky, Rze\u017anicza 28-31",
+            "telefon": "",
+            "www": "",
+            "slug": "jedrus",
+            "likes": "156"
+        },
+        {
+            "id": 4548,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/julian-okulista\/",
+            "title": "Julian Okulista",
+            "marker": {
+                "lat": "51.1136941",
+                "lng": "17.0546391"
+            },
+            "thumbnail": "\"Julian",
+            "adres": "Piwna 13",
+            "telefon": "",
+            "www": "",
+            "slug": "julian-okulista",
+            "likes": "167"
+        },
+        {
+            "id": 12679,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kacus\/",
+            "title": "Kacu\u015b",
+            "marker": {
+                "lat": "51.1106399",
+                "lng": "17.0333105"
+            },
+            "thumbnail": "\"kacu\u015b2\"",
+            "adres": "Rynek 42\/43, Apteka Pod Podw\u00f3jnym Z\u0142otym Or\u0142em ",
+            "telefon": "",
+            "www": "",
+            "slug": "kacus",
+            "likes": "18"
+        },
+        {
+            "id": 1650,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kanapownik\/",
+            "title": "Kanapownik",
+            "marker": {
+                "lat": "51.1108",
+                "lng": "17.023667"
+            },
+            "thumbnail": "\"Kanapownik\"",
+            "adres": "ul. Ruska 37\/38, przed Domar Development",
+            "telefon": "",
+            "www": "",
+            "slug": "kanapownik",
+            "likes": "260"
+        },
+        {
+            "id": 6244,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kandarek\/",
+            "title": "Kandarek",
+            "marker": {
+                "lat": "51.0603578",
+                "lng": "17.0032471"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Zwyci\u0119ska 9-23 lok.7",
+            "telefon": "",
+            "www": "",
+            "slug": "kandarek",
+            "likes": "131"
+        },
+        {
+            "id": 11545,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kapitan-jack-port\/",
+            "title": "Kapitan Jack Port",
+            "marker": {
+                "lat": "51.110524",
+                "lng": "17.12434"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Cha\u0142upnicza 21",
+            "telefon": "",
+            "www": "",
+            "slug": "kapitan-jack-port",
+            "likes": "81"
+        },
+        {
+            "id": 1619,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kapitanskie-blizniaki\/",
+            "title": "Kapita\u0144skie Bli\u017aniaki",
+            "marker": {
+                "lat": "51.113989743283845",
+                "lng": "17.042101621627808"
+            },
+            "thumbnail": "\"Nerida\"",
+            "adres": "bulwar W\u0142ostowica",
+            "telefon": "",
+            "www": "",
+            "slug": "kapitanskie-blizniaki",
+            "likes": "155"
+        },
+        {
+            "id": 4937,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/karmelek\/",
+            "title": "Karmelek",
+            "marker": {
+                "lat": "51.11219800000001",
+                "lng": "17.031481"
+            },
+            "thumbnail": "\"krasnal",
+            "adres": "Odrza\u0144ska 8",
+            "telefon": "",
+            "www": "",
+            "slug": "karmelek",
+            "likes": "506"
+        },
+        {
+            "id": 1267,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kasyniarze\/",
+            "title": "Kasyniarze",
+            "marker": {
+                "lat": "51.101174",
+                "lng": "17.0307329"
+            },
+            "thumbnail": "\"Farciarz",
+            "adres": "Pi\u0142sudskiego 66",
+            "telefon": "",
+            "www": "",
+            "slug": "kasyniarze",
+            "likes": "160"
+        },
+        {
+            "id": 12653,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/katnoludek\/",
+            "title": "KATnoludek",
+            "marker": {
+                "lat": "51.108208",
+                "lng": "17.019586"
+            },
+            "thumbnail": "\"katnoludek\"",
+            "adres": "Plac Orl\u0105t Lwowskich 20 B",
+            "telefon": "",
+            "www": "",
+            "slug": "katnoludek",
+            "likes": "11"
+        },
+        {
+            "id": 11710,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kawiarek\/",
+            "title": "Kawiarek",
+            "marker": {
+                "lat": "51.11449589999999",
+                "lng": "17.04412"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Katedralna 6 ",
+            "telefon": "",
+            "www": "",
+            "slug": "kawiarek",
+            "likes": "82"
+        },
+        {
+            "id": 11647,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kika\/",
+            "title": "KiKa",
+            "marker": {
+                "lat": "51.1128995",
+                "lng": "17.0171688"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Legnicka 21A",
+            "telefon": "",
+            "www": "",
+            "slug": "kika",
+            "likes": "96"
+        },
+        {
+            "id": 1268,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kinoman\/",
+            "title": "Kinoman M\u0142odszy",
+            "marker": {
+                "lat": "51.10896169999999",
+                "lng": "17.0265338"
+            },
+            "thumbnail": "\"Kinoman\"",
+            "adres": "\u015bw. Antoniego 1 ",
+            "telefon": "",
+            "www": "",
+            "slug": "kinoman",
+            "likes": "194"
+        },
+        {
+            "id": 1269,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/klaun\/",
+            "title": "Klaun",
+            "marker": {
+                "lat": "51.1180375",
+                "lng": "17.0670462"
+            },
+            "thumbnail": "\"Klaun\"",
+            "adres": "ul. Bujwida 44",
+            "telefon": "",
+            "www": "",
+            "slug": "klaun",
+            "likes": "168"
+        },
+        {
+            "id": 1270,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/klucznik\/",
+            "title": "Klucznik",
+            "marker": {
+                "lat": "51.10972289999999",
+                "lng": "17.034176"
+            },
+            "thumbnail": "\"Klucznik\"",
+            "adres": "ul. Szewska 74",
+            "telefon": "",
+            "www": "",
+            "slug": "klucznik",
+            "likes": "196"
+        },
+        {
+            "id": 1627,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kolejarz\/",
+            "title": "Kolejarz",
+            "marker": {
+                "lat": "51.10030164011098",
+                "lng": "17.02852964401245"
+            },
+            "thumbnail": "\"Kolejarz\"",
+            "adres": "wiadukt kolejowy, ul. Bogus\u0142awskiego \/ \u015awidnicka",
+            "telefon": "",
+            "www": "",
+            "slug": "kolejarz",
+            "likes": "154"
+        },
+        {
+            "id": 5946,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kolejarz-lesnicki\/",
+            "title": "Kolejarz Le\u015bnicki",
+            "marker": {
+                "lat": "51.142727788464335",
+                "lng": "16.866628962565642"
+            },
+            "thumbnail": "\"kolejarz",
+            "adres": "ul. Rubczaka 20, dworzec kolejowy Wroc\u0142aw Le\u015bnica",
+            "telefon": "",
+            "www": "",
+            "slug": "kolejarz-lesnicki",
+            "likes": "130"
+        },
+        {
+            "id": 5997,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kolejarze-brochowscy\/",
+            "title": "Kolejarze Brochowscy",
+            "marker": {
+                "lat": "51.0628369",
+                "lng": "17.08007"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "ul. Bieg\u0142a 3, ko\u015bci\u00f3\u0142 pw. \u015aw. Jerzego",
+            "telefon": "",
+            "www": "",
+            "slug": "kolejarze-brochowscy",
+            "likes": "165"
+        },
+        {
+            "id": 1584,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kolekcjoner\/",
+            "title": "Kolekcjoner",
+            "marker": {
+                "lat": "51.1095172",
+                "lng": "17.0331942"
+            },
+            "thumbnail": "\"Kolekcjoner\"",
+            "adres": "Rynek 31\/32, 4 pi\u0119tro DH Feniks",
+            "telefon": "",
+            "www": "",
+            "slug": "kolekcjoner",
+            "likes": "762"
+        },
+        {
+            "id": 1271,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kowal\/",
+            "title": "Kowal",
+            "marker": {
+                "lat": "51.11057146541194",
+                "lng": "17.033636569976807"
+            },
+            "thumbnail": "\"Kowal\"",
+            "adres": "ul. Ku\u017anicza, r\u00f3g Wita Stwosza",
+            "telefon": "",
+            "www": "",
+            "slug": "kowal",
+            "likes": "195"
+        },
+        {
+            "id": 5088,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kownacek\/",
+            "title": "Kownacek",
+            "marker": {
+                "lat": "51.0905049",
+                "lng": "17.000153"
+            },
+            "thumbnail": "\"kownacek\"",
+            "adres": "ul. Hallera 77a",
+            "telefon": "",
+            "www": "",
+            "slug": "kownacek",
+            "likes": "130"
+        },
+        {
+            "id": 5794,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kozanek\/",
+            "title": "Kozanek",
+            "marker": {
+                "lat": "51.13718859999999",
+                "lng": "16.9759342"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Go\u0142\u0119\u017cycka 4a",
+            "telefon": "",
+            "www": "",
+            "slug": "kozanek",
+            "likes": "132"
+        },
+        {
+            "id": 11127,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnal-obzartuch-z-kfc\/",
+            "title": "Krasnal Ob\u017cartuch z \u201eKFC\u201d",
+            "marker": {
+                "lat": "51.1076539",
+                "lng": "17.032014"
+            },
+            "thumbnail": "\"obzartuch",
+            "adres": " ul. \u015awidnicka 13",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnal-obzartuch-z-kfc",
+            "likes": "415"
+        },
+        {
+            "id": 1272,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnal-teatralny\/",
+            "title": "Krasnal Teatralny",
+            "marker": {
+                "lat": "51.112226",
+                "lng": "17.028961"
+            },
+            "thumbnail": "\"Powitalnik\"",
+            "adres": "ul. Rze\u017anicza 12",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnal-teatralny",
+            "likes": "132"
+        },
+        {
+            "id": 5262,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnal-wloski\/",
+            "title": "Krasnal w\u0142oski",
+            "marker": {
+                "lat": "51.1124409",
+                "lng": "17.032208"
+            },
+            "thumbnail": "\"3\"",
+            "adres": "ul. Wi\u0119zienna 21",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnal-wloski",
+            "likes": "165"
+        },
+        {
+            "id": 1273,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-basenowe-plumplumek-bulbulek-ratus-i-helpik\/",
+            "title": "Krasnale basenowe: Plumplumek, Bulbulek, Ratu\u015b i Helpik",
+            "marker": {
+                "lat": "51.105489",
+                "lng": "17.0344999"
+            },
+            "thumbnail": "\"P\u0142ywak\"",
+            "adres": "Teatralna 10\/12, basen nr 1",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-basenowe-plumplumek-bulbulek-ratus-i-helpik",
+            "likes": "155"
+        },
+        {
+            "id": 6048,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-dworcowe\/",
+            "title": "Krasnale dworcowe",
+            "marker": {
+                "lat": "51.098838",
+                "lng": "17.0365227"
+            },
+            "thumbnail": "\"Krasnal",
+            "adres": "Pi\u0142sudskiego 105, Dworzec G\u0142\u00f3wny PKP",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-dworcowe",
+            "likes": "212"
+        },
+        {
+            "id": 10905,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-orkiestry-symfonicznej-nfm\/",
+            "title": "Krasnale Filharmonii Wroc\u0142awskiej NFM",
+            "marker": {
+                "lat": "51.10676549999999",
+                "lng": "17.0279831"
+            },
+            "thumbnail": "\"\"",
+            "adres": "Narodowe Forum Muzyki, Plac Wolno\u015bci 1",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-orkiestry-symfonicznej-nfm",
+            "likes": "288"
+        },
+        {
+            "id": 11702,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-intibski\/",
+            "title": "Krasnale Intibski",
+            "marker": {
+                "lat": "51.101142",
+                "lng": "17.067859"
+            },
+            "thumbnail": "\"Krasnale11\"",
+            "adres": "ul. Ok\u00f3lna 2",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-intibski",
+            "likes": "48"
+        },
+        {
+            "id": 6326,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-promenad-wroclawskich\/",
+            "title": "Krasnale Promenad Wroc\u0142awskich",
+            "marker": {
+                "lat": "51.1307142",
+                "lng": "17.0448612"
+            },
+            "thumbnail": "\"Krasnale-Promenad-Wroclawskich-2\"",
+            "adres": "Antoniego S\u0142onimskiego, Osiedle Promenady Wroc\u0142awskie",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-promenad-wroclawskich",
+            "likes": "114"
+        },
+        {
+            "id": 6014,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-przyladka-nadziei\/",
+            "title": "Krasnale Przyl\u0105dka Nadziei",
+            "marker": {
+                "lat": "51.104572871169744",
+                "lng": "16.88319683074951"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Graniczna 190, Port Lotniczy",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-przyladka-nadziei",
+            "likes": "145"
+        },
+        {
+            "id": 4949,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-tolerancji\/",
+            "title": "Krasnale tolerancji",
+            "marker": {
+                "lat": "51.1087025",
+                "lng": "17.0266974"
+            },
+            "thumbnail": "\"krasnale",
+            "adres": "\u015bw. Antoniego 2\/4",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-tolerancji",
+            "likes": "150"
+        },
+        {
+            "id": 1667,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-wodne-puszczajacy-stateczki-karmiacy-ptaki-ogrodnik-aktor-parasolnik-wierzbownik-zbierajacy-wode\/",
+            "title": "Krasnale Wodne: Puszczaj\u0105cy Stateczki, Karmi\u0105cy Ptaki, Ogrodnik, Aktor, Parasolnik, Wierzbownik, Zbieraj\u0105cy Wod\u0119",
+            "marker": {
+                "lat": "51.10530245037051",
+                "lng": "17.0331936595245"
+            },
+            "thumbnail": "\"Krasnale",
+            "adres": "plac Teatralny 4",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-wodne-puszczajacy-stateczki-karmiacy-ptaki-ogrodnik-aktor-parasolnik-wierzbownik-zbierajacy-wode",
+            "likes": "182"
+        },
+        {
+            "id": 1274,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnale-z-gildii-kupieckiej\/",
+            "title": "Krasnale z Gildii Kupieckiej",
+            "marker": {
+                "lat": "51.09858192028117",
+                "lng": "17.02833116054535"
+            },
+            "thumbnail": "\"Krasnale",
+            "adres": "ul. Swobodna, Market EPI",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnale-z-gildii-kupieckiej",
+            "likes": "111"
+        },
+        {
+            "id": 6049,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnalica\/",
+            "title": "Krasnalica",
+            "marker": {
+                "lat": "51.09880940000001",
+                "lng": "17.0365281"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Pi\u0142sudskiego 105, Dworzec G\u0142\u00f3wny PKP, peron 2",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnalica",
+            "likes": "156"
+        },
+        {
+            "id": 1648,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnalka-przedszkolanka\/",
+            "title": "Krasnalka Przedszkolanka (Niezabudka)",
+            "marker": {
+                "lat": "51.06503379999999",
+                "lng": "16.9847453"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Wa\u0142brzyska 2a",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnalka-przedszkolanka",
+            "likes": "115"
+        },
+        {
+            "id": 1604,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kreacjusz\/",
+            "title": "Kreacjusz",
+            "marker": {
+                "lat": "51.094144883012945",
+                "lng": "17.06183019021296"
+            },
+            "thumbnail": "\"Kreacjusz\"",
+            "adres": "ul. Krakowska 56-62, biuro 008",
+            "telefon": "",
+            "www": "",
+            "slug": "kreacjusz",
+            "likes": "125"
+        },
+        {
+            "id": 1275,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kupczyk\/",
+            "title": "Kupczyk",
+            "marker": {
+                "lat": "51.094983",
+                "lng": "17.027943"
+            },
+            "thumbnail": "\"Kupczyk\"",
+            "adres": "ul. Komandorska 66",
+            "telefon": "",
+            "www": "",
+            "slug": "kupczyk",
+            "likes": "107"
+        },
+        {
+            "id": 4899,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/kusy\/",
+            "title": "Kusy",
+            "marker": {
+                "lat": "51.1095822",
+                "lng": "17.0954976"
+            },
+            "thumbnail": "\"Kusy\"",
+            "adres": "ul. Krajewskiego 1",
+            "telefon": "",
+            "www": "",
+            "slug": "kusy",
+            "likes": "134"
+        },
+        {
+            "id": 1613,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/lappek\/",
+            "title": "Lappek",
+            "marker": {
+                "lat": "51.1106219836741",
+                "lng": "17.059332132339478"
+            },
+            "thumbnail": "\"Lappek\"",
+            "adres": "ul. Janiszewskiego, Politechnika Wroc\u0142awska, budynek D-20",
+            "telefon": "",
+            "www": "",
+            "slug": "lappek",
+            "likes": "140"
+        },
+        {
+            "id": 1276,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/latalek\/",
+            "title": "Lata\u0142ek",
+            "marker": {
+                "lat": "51.1047895",
+                "lng": "16.8997577"
+            },
+            "thumbnail": "\"Lata\u0142ek\"",
+            "adres": "ul. Skar\u017cy\u0144skiego 36 ",
+            "telefon": "",
+            "www": "",
+            "slug": "latalek",
+            "likes": "124"
+        },
+        {
+            "id": 11342,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/leniuch\/",
+            "title": "Leniuch",
+            "marker": {
+                "lat": "51.0839489",
+                "lng": "17.0537579"
+            },
+            "thumbnail": "\"leniuch\"",
+            "adres": "ul. Nyska 70-86 , Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "leniuch",
+            "likes": "127"
+        },
+        {
+            "id": 6176,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/leos\/",
+            "title": "Leo\u015b",
+            "marker": {
+                "lat": "51.1228609",
+                "lng": "17.0424937"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "Roosevelta 15",
+            "telefon": "",
+            "www": "",
+            "slug": "leos",
+            "likes": "225"
+        },
+        {
+            "id": 1637,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/listonosz\/",
+            "title": "Listonosz",
+            "marker": {
+                "lat": "51.10823072536022",
+                "lng": "17.044397592544556"
+            },
+            "thumbnail": "\"Listonosz\"",
+            "adres": "Muzeum Poczty i Telekomunikacji, ul. Krasi\u0144skiego 1, I pi\u0119tro",
+            "telefon": "",
+            "www": "",
+            "slug": "listonosz",
+            "likes": "156"
+        },
+        {
+            "id": 1277,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/lotnik\/",
+            "title": "Lotnicy",
+            "marker": {
+                "lat": "51.08869860761484",
+                "lng": "16.999540328979492"
+            },
+            "thumbnail": "\"Lotnicy\"",
+            "adres": "ul. Gen. Hallera 52, przed CH Borek",
+            "telefon": "",
+            "www": "",
+            "slug": "lotnik",
+            "likes": "154"
+        },
+        {
+            "id": 11628,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/jacek\/",
+            "title": "Lotniczek",
+            "marker": {
+                "lat": "51.1459947",
+                "lng": "17.1223678"
+            },
+            "thumbnail": "\"20160510_krasnale01\"",
+            "adres": "ul. Kie\u0142czowska 43",
+            "telefon": "",
+            "www": "",
+            "slug": "jacek",
+            "likes": "76"
+        },
+        {
+            "id": 12666,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/lottus\/",
+            "title": "Lottu\u015b",
+            "marker": {
+                "lat": "51.094753",
+                "lng": "17.0367189"
+            },
+            "thumbnail": "\"lottu\u015b\"",
+            "adres": "ul. Joannit\u00f3w 16, IV Oddzia\u0142 LOTTO ",
+            "telefon": "",
+            "www": "",
+            "slug": "lottus",
+            "likes": "7"
+        },
+        {
+            "id": 11028,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/luksik\/",
+            "title": "Luksik",
+            "marker": {
+                "lat": "51.0993749",
+                "lng": "17.040139"
+            },
+            "thumbnail": "\"luxik\"",
+            "adres": "plac Konstytucji 3 Maja 3",
+            "telefon": "",
+            "www": "",
+            "slug": "luksik",
+            "likes": "10805"
+        },
+        {
+            "id": 1278,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/luminator\/",
+            "title": "Luminator",
+            "marker": {
+                "lat": "51.088496",
+                "lng": "17.0163939"
+            },
+            "thumbnail": "\"Luminator\"",
+            "adres": "Tauron, ul. Sudecka 95\/97",
+            "telefon": "",
+            "www": "",
+            "slug": "luminator",
+            "likes": "160"
+        },
+        {
+            "id": 1588,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/lunatyk\/",
+            "title": "Lunatyk",
+            "marker": {
+                "lat": "51.1114517",
+                "lng": "17.0262184"
+            },
+            "thumbnail": "\"Lunatyk\"",
+            "adres": "Mielnicki & O' Sullivan, ul. \u015bw. Miko\u0142aja 61-62",
+            "telefon": "",
+            "www": "",
+            "slug": "lunatyk",
+            "likes": "196"
+        },
+        {
+            "id": 11122,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/malarz-piotrus\/",
+            "title": "Malarz Piotru\u015b",
+            "marker": {
+                "lat": "51.0992701",
+                "lng": "17.1121422"
+            },
+            "thumbnail": "\"Krasnal-Malarz-Piotru\u015b\"",
+            "adres": "ul. Wojtkiewicza 16 ",
+            "telefon": "",
+            "www": "",
+            "slug": "malarz-piotrus",
+            "likes": "124"
+        },
+        {
+            "id": 1652,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/marysia-pieknisia\/",
+            "title": "Marysia Pi\u0119knisia",
+            "marker": {
+                "lat": "51.106592",
+                "lng": "17.0336876"
+            },
+            "thumbnail": "\"Marysia",
+            "adres": "ul. Widok 8, Centrum Dermatologii Estetycznej",
+            "telefon": "",
+            "www": "",
+            "slug": "marysia-pieknisia",
+            "likes": "253"
+        },
+        {
+            "id": 1279,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/marzenka\/",
+            "title": "Marzenka",
+            "marker": {
+                "lat": "51.11810144498545",
+                "lng": "17.067164182662964"
+            },
+            "thumbnail": "\"Marzenka\"",
+            "adres": "Klinika Hematologii i Onkologii Dzieci\u0119cej, hol, ul. Bujwida 44",
+            "telefon": "",
+            "www": "",
+            "slug": "marzenka",
+            "likes": "184"
+        },
+        {
+            "id": 4086,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/marzyciel-dreamer\/",
+            "title": "Marzyciel - Dreamer",
+            "marker": {
+                "lat": "51.151813",
+                "lng": "17.1336722"
+            },
+            "thumbnail": "\"Marzyciel\"",
+            "adres": "ul. Bierutowska 65\/67, UTC Aerospace Systems",
+            "telefon": "",
+            "www": "",
+            "slug": "marzyciel-dreamer",
+            "likes": "168"
+        },
+        {
+            "id": 6325,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/matematyk\/",
+            "title": "Matematyk",
+            "marker": {
+                "lat": "51.11024800000001",
+                "lng": "17.053959"
+            },
+            "thumbnail": "\"matematyk-1\"",
+            "adres": "Instytut Matematyczny UWr, pl. Grunwaldzki 2\/4",
+            "telefon": "",
+            "www": "",
+            "slug": "matematyk",
+            "likes": "251"
+        },
+        {
+            "id": 1643,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/max-i-fliz\/",
+            "title": "Max i Fliz",
+            "marker": {
+                "lat": "51.105689",
+                "lng": "16.9482739"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Mi\u0144ska 60A, sklep Max-Fliz",
+            "telefon": "",
+            "www": "",
+            "slug": "max-i-fliz",
+            "likes": "186"
+        },
+        {
+            "id": 10526,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/mellonik\/",
+            "title": "Mellonik",
+            "marker": {
+                "lat": "51.098183",
+                "lng": "17.03237"
+            },
+            "thumbnail": "\"mellonik\"",
+            "adres": "Swobodna 1, 50-088 Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "mellonik",
+            "likes": "139"
+        },
+        {
+            "id": 5400,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/mieszadello\/",
+            "title": "Mieszade\u0142\u0142o",
+            "marker": {
+                "lat": "51.111984",
+                "lng": "17.032435"
+            },
+            "thumbnail": "",
+            "adres": "Kotlarska 25\/1b",
+            "telefon": "",
+            "www": "",
+            "slug": "mieszadello",
+            "likes": "137"
+        },
+        {
+            "id": 1594,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/mikolaj-ziolko\/",
+            "title": "Miko\u0142aj Zi\u00f3\u0142ko",
+            "marker": {
+                "lat": "51.1114774",
+                "lng": "17.0279487"
+            },
+            "thumbnail": "\"Miko\u0142aj",
+            "adres": "\u015awi\u0119tego Miko\u0142aja 65\/68",
+            "telefon": "",
+            "www": "",
+            "slug": "mikolaj-ziolko",
+            "likes": "149"
+        },
+        {
+            "id": 1655,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/milostek\/",
+            "title": "Mi\u0142ostek",
+            "marker": {
+                "lat": "51.0710349",
+                "lng": "17.0022345"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Zimowa 14, prywatna posesja",
+            "telefon": "",
+            "www": "",
+            "slug": "milostek",
+            "likes": "146"
+        },
+        {
+            "id": 1282,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/mlynarz-tumski\/",
+            "title": "M\u0142ynarz Tumski",
+            "marker": {
+                "lat": "51.1160895",
+                "lng": "17.0406253"
+            },
+            "thumbnail": "\"M\u0142ynarz",
+            "adres": "Wyspa S\u0142odowa 10",
+            "telefon": "",
+            "www": "",
+            "slug": "mlynarz-tumski",
+            "likes": "132"
+        },
+        {
+            "id": 5618,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/moteusz\/",
+            "title": "Moteusz",
+            "marker": {
+                "lat": "51.12448999999999",
+                "lng": "17.0288129"
+            },
+            "thumbnail": "\"Moteusz",
+            "adres": "pl. Staszica 20, sklep e-dziewiarka",
+            "telefon": "",
+            "www": "",
+            "slug": "moteusz",
+            "likes": "126"
+        },
+        {
+            "id": 1651,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/murarz\/",
+            "title": "Murarz",
+            "marker": {
+                "lat": "51.1096186",
+                "lng": "17.0242868"
+            },
+            "thumbnail": "\"Murarz\"",
+            "adres": "\u015awi\u0119tego Antoniego 23",
+            "telefon": "",
+            "www": "",
+            "slug": "murarz",
+            "likes": "129"
+        },
+        {
+            "id": 6328,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/myjek\/",
+            "title": "Myjek",
+            "marker": {
+                "lat": "51.1071934",
+                "lng": "16.9466579"
+            },
+            "thumbnail": "\"myjek\"",
+            "adres": "ul. Graniczna 2, myjnia samochodowa Aquamio na terenie Factory",
+            "telefon": "",
+            "www": "",
+            "slug": "myjek",
+            "likes": "143"
+        },
+        {
+            "id": 1621,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/narcys\/",
+            "title": "Narcy\u015b",
+            "marker": {
+                "lat": "51.0938169",
+                "lng": "16.989328"
+            },
+            "thumbnail": "\"narcy\u015b",
+            "adres": "ul. Narcyzowa 6",
+            "telefon": "",
+            "www": "",
+            "slug": "narcys",
+            "likes": "146"
+        },
+        {
+            "id": 2354,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/narzedziownik\/",
+            "title": "Narz\u0119dziownik",
+            "marker": {
+                "lat": "51.110948",
+                "lng": "17.0035"
+            },
+            "thumbnail": "\"fot.",
+            "adres": "ul. Robotnicza 40",
+            "telefon": "",
+            "www": "",
+            "slug": "narzedziownik",
+            "likes": "135"
+        },
+        {
+            "id": 5705,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/nawigator\/",
+            "title": "Nawigator",
+            "marker": {
+                "lat": "51.115006758433665",
+                "lng": "17.033400535583496"
+            },
+            "thumbnail": "\"nawigator\"",
+            "adres": "Marina Topacz ul. Ksi\u0119cia Witolda",
+            "telefon": "",
+            "www": "",
+            "slug": "nawigator",
+            "likes": "1623"
+        },
+        {
+            "id": 12630,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/neptunek\/",
+            "title": "Neptunek",
+            "marker": {
+                "lat": "51.1100547",
+                "lng": "17.0391928"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Stary Klasztor, ul. Jana Ewangelisty Purkyniego 1",
+            "telefon": "",
+            "www": "",
+            "slug": "neptunek",
+            "likes": "36"
+        },
+        {
+            "id": 1289,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/nowozency\/",
+            "title": "Nowo\u017ce\u0144cy",
+            "marker": {
+                "lat": "51.11063",
+                "lng": "17.0229164"
+            },
+            "thumbnail": "\"Pa\u0144stwo",
+            "adres": "ul. W\u0142odkowica 20\/22, Urz\u0105d Stanu Cywilnego",
+            "telefon": "",
+            "www": "",
+            "slug": "nowozency",
+            "likes": "190"
+        },
+        {
+            "id": 5065,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/obarek\/",
+            "title": "O'Barek",
+            "marker": {
+                "lat": "51.1146778",
+                "lng": "17.0310921"
+            },
+            "thumbnail": "\"Obarek\"",
+            "adres": "OKWineBar, ul. ksi\u0119cia Witolda 1, przy wroc\u0142awskim Porcie Jachtowym",
+            "telefon": "",
+            "www": "",
+            "slug": "obarek",
+            "likes": "216"
+        },
+        {
+            "id": 1283,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/obiezysmak\/",
+            "title": "Obie\u017cysmak",
+            "marker": {
+                "lat": "51.1107848",
+                "lng": "17.0325789"
+            },
+            "thumbnail": "\"Obie\u017cysmak\"",
+            "adres": "Rynek 48",
+            "telefon": "",
+            "www": "",
+            "slug": "obiezysmak",
+            "likes": "258"
+        },
+        {
+            "id": 1664,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/oddludek\/",
+            "title": "OddLudek",
+            "marker": {
+                "lat": "51.10463859999999",
+                "lng": "17.0345539"
+            },
+            "thumbnail": "\"OddLudek\"",
+            "adres": "ul. Piotra Skargi, Park staromiejski na przeciw pomnika Kopernika",
+            "telefon": "",
+            "www": "",
+            "slug": "oddludek",
+            "likes": "141"
+        },
+        {
+            "id": 2348,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ogorzalek-i-opilek\/",
+            "title": "Ogorza\u0142ek i Opi\u0142ek",
+            "marker": {
+                "lat": "51.1110183",
+                "lng": "17.0303885"
+            },
+            "thumbnail": "\"Ogorza\u0142ek",
+            "adres": "ul. \u015aw. Miko\u0142aja 81",
+            "telefon": "",
+            "www": "",
+            "slug": "ogorzalek-i-opilek",
+            "likes": "216"
+        },
+        {
+            "id": 1284,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ogrodnik\/",
+            "title": "Ogrodnik i Kierownik",
+            "marker": {
+                "lat": "51.116343661514655",
+                "lng": "17.046639919281006"
+            },
+            "thumbnail": "\"Ogrodnik\"",
+            "adres": "ul. Sienkiewicza 23",
+            "telefon": "",
+            "www": "",
+            "slug": "ogrodnik",
+            "likes": "125"
+        },
+        {
+            "id": 1287,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/olbiniusz\/",
+            "title": "O\u0142biniusz",
+            "marker": {
+                "lat": "51.1197467",
+                "lng": "17.0495767"
+            },
+            "thumbnail": "\"O\u0142biniusz\"",
+            "adres": "ul. Prusa 64\/74",
+            "telefon": "",
+            "www": "",
+            "slug": "olbiniusz",
+            "likes": "131"
+        },
+        {
+            "id": 6338,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/opalek\/",
+            "title": "Opa\u0142ek",
+            "marker": {
+                "lat": "51.1565529",
+                "lng": "17.122355"
+            },
+            "thumbnail": "\"opalek-2\"",
+            "adres": "ul. Irkucka 11",
+            "telefon": "",
+            "www": "",
+            "slug": "opalek",
+            "likes": "119"
+        },
+        {
+            "id": 1285,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/opiekunek\/",
+            "title": "Opiekunek i Krasnomale\u0144stwo",
+            "marker": {
+                "lat": "51.109308490901476",
+                "lng": "17.073633670806885"
+            },
+            "thumbnail": "\"Opiekunek",
+            "adres": "ul. Parkowa 2",
+            "telefon": "",
+            "www": "",
+            "slug": "opiekunek",
+            "likes": "146"
+        },
+        {
+            "id": 10056,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ortopeda\/",
+            "title": "Ortopeda",
+            "marker": {
+                "lat": "51.0849971",
+                "lng": "17.0350367"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "ul. Borowska",
+            "telefon": "",
+            "www": "",
+            "slug": "ortopeda",
+            "likes": "117"
+        },
+        {
+            "id": 1286,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ossolinek\/",
+            "title": "Ossolinek",
+            "marker": {
+                "lat": "51.11395943454176",
+                "lng": "17.03726828098297"
+            },
+            "thumbnail": "\"Ossolinek\"",
+            "adres": "ul. Grodzka, zau\u0142ek Ossoli\u0144skich",
+            "telefon": "",
+            "www": "",
+            "slug": "ossolinek",
+            "likes": "122"
+        },
+        {
+            "id": 11217,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/ottus\/",
+            "title": "Ottu\u015b",
+            "marker": {
+                "lat": "51.108982",
+                "lng": "17.02919"
+            },
+            "thumbnail": "\"ottus1\"",
+            "adres": "OTTO Polska sp. z o.o. Plac Solny 15 50-062 Wroc\u0142aw ",
+            "telefon": "",
+            "www": "",
+            "slug": "ottus",
+            "likes": "207"
+        },
+        {
+            "id": 1636,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pacjent-i-lekarz\/",
+            "title": "Pacjent i Lekarz",
+            "marker": {
+                "lat": "51.1164110107728",
+                "lng": "17.053613662719727"
+            },
+            "thumbnail": "\"Pacjent",
+            "adres": "ul. Sienkiewicza 37\/39",
+            "telefon": "",
+            "www": "",
+            "slug": "pacjent-i-lekarz",
+            "likes": "124"
+        },
+        {
+            "id": 1663,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pakerka-i-pikselek\/",
+            "title": "Pakerka i Pikselek",
+            "marker": {
+                "lat": "51.02606549999999",
+                "lng": "16.8921972"
+            },
+            "thumbnail": "\"Pakerka",
+            "adres": "ul. LG 1 (Biskupice Podg\u00f3rne k\/Wroc\u0142awia)",
+            "telefon": "",
+            "www": "",
+            "slug": "pakerka-i-pikselek",
+            "likes": "105"
+        },
+        {
+            "id": 4699,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pan-twardowski\/",
+            "title": "Pan Twardowski",
+            "marker": {
+                "lat": "51.1215663",
+                "lng": "16.8444629"
+            },
+            "thumbnail": "\"20130110_144243\"",
+            "adres": "ul. Jarno\u0142towska 85b, Karczma Rzym",
+            "telefon": "",
+            "www": "",
+            "slug": "pan-twardowski",
+            "likes": "188"
+        },
+        {
+            "id": 1288,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/panna-pychotka\/",
+            "title": "Panna Pychotka",
+            "marker": {
+                "lat": "51.10527",
+                "lng": "17.022876"
+            },
+            "thumbnail": "\"Panna",
+            "adres": "ul. S\u0105dowa 14, Spo\u0142em",
+            "telefon": "",
+            "www": "",
+            "slug": "panna-pychotka",
+            "likes": "170"
+        },
+        {
+            "id": 1632,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/panoramik\/",
+            "title": "Panoramik",
+            "marker": {
+                "lat": "51.1101398",
+                "lng": "17.0444247"
+            },
+            "thumbnail": "\"Panoramik\"",
+            "adres": "Panorama Rac\u0142awicka, ul. Jana Ewangelisty Purkyniego 11",
+            "telefon": "",
+            "www": "",
+            "slug": "panoramik",
+            "likes": "215"
+        },
+        {
+            "id": 5937,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/papa-het\/",
+            "title": "Papa Het",
+            "marker": {
+                "lat": "51.111683",
+                "lng": "17.016089"
+            },
+            "thumbnail": "\"Papa",
+            "adres": "ul. Ziemowita 11",
+            "telefon": "",
+            "www": "",
+            "slug": "papa-het",
+            "likes": "204"
+        },
+        {
+            "id": 1290,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/papa-krasnal\/",
+            "title": "Papa Krasnal",
+            "marker": {
+                "lat": "51.107503219411605",
+                "lng": "17.0325368642807"
+            },
+            "thumbnail": "\"Papa",
+            "adres": "ul. \u015awidnicka",
+            "telefon": "",
+            "www": "",
+            "slug": "papa-krasnal",
+            "likes": "444"
+        },
+        {
+            "id": 1291,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/paragrafek\/",
+            "title": "Paragrafek",
+            "marker": {
+                "lat": "51.1132474",
+                "lng": "17.0336608"
+            },
+            "thumbnail": "\"Paragrafek\"",
+            "adres": "ul. Uniwersytecka 12, Uniwersytet - Wydzia\u0142 Prawa, bud. A",
+            "telefon": "",
+            "www": "",
+            "slug": "paragrafek",
+            "likes": "117"
+        },
+        {
+            "id": 1292,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/parasolniki\/",
+            "title": "Parasolniki",
+            "marker": {
+                "lat": "51.111466",
+                "lng": "17.0619637"
+            },
+            "thumbnail": "\"Parasolniki\"",
+            "adres": "Grunwaldzki Centre, Rondo Regana",
+            "telefon": "",
+            "www": "",
+            "slug": "parasolniki",
+            "likes": "164"
+        },
+        {
+            "id": 5974,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/patrolek\/",
+            "title": "Patrolek",
+            "marker": {
+                "lat": "51.105027",
+                "lng": "17.027963"
+            },
+            "thumbnail": "\"patrolek\"",
+            "adres": "ul. Podwale 31-33, Komenda Wojew\u00f3dzka Policji",
+            "telefon": "",
+            "www": "",
+            "slug": "patrolek",
+            "likes": "171"
+        },
+        {
+            "id": 10515,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/phoeniksik\/",
+            "title": "Phoeniksik",
+            "marker": {
+                "lat": "51.1515841",
+                "lng": "17.1284181"
+            },
+            "thumbnail": "\"24-5847sok\"",
+            "adres": "Bierutowska 57-59",
+            "telefon": "",
+            "www": "",
+            "slug": "phoeniksik",
+            "likes": "101"
+        },
+        {
+            "id": 1657,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/piastek\/",
+            "title": "Piastek",
+            "marker": {
+                "lat": "51.1118791",
+                "lng": "17.0725919"
+            },
+            "thumbnail": "\"Piastek\"",
+            "adres": "ul. Parkowa 18-26",
+            "telefon": "",
+            "www": "",
+            "slug": "piastek",
+            "likes": "119"
+        },
+        {
+            "id": 1630,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/piastoslaw-i-zlocisty\/",
+            "title": "Piastos\u0142aw I Z\u0142ocisty",
+            "marker": {
+                "lat": "51.11580619999999",
+                "lng": "17.0412421"
+            },
+            "thumbnail": "\"Piastoslaw\"",
+            "adres": "Wyspa S\u0142odowa",
+            "telefon": "",
+            "www": "",
+            "slug": "piastoslaw-i-zlocisty",
+            "likes": "135"
+        },
+        {
+            "id": 1293,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pieroznik\/",
+            "title": "Piero\u017cnik",
+            "marker": {
+                "lat": "51.1110556",
+                "lng": "17.0337742"
+            },
+            "thumbnail": "\"Piero\u017cnik\"",
+            "adres": "Ku\u017anicza 10",
+            "telefon": "",
+            "www": "",
+            "slug": "pieroznik",
+            "likes": "341"
+        },
+        {
+            "id": 1294,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pilotek\/",
+            "title": "Pilotek",
+            "marker": {
+                "lat": "51.1268227",
+                "lng": "16.9721299"
+            },
+            "thumbnail": "\"Pilotek\"",
+            "adres": "bulwar Ikara 19",
+            "telefon": "",
+            "www": "",
+            "slug": "pilotek",
+            "likes": "143"
+        },
+        {
+            "id": 5936,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/piotrek\/",
+            "title": "Piotrek",
+            "marker": {
+                "lat": "51.1141",
+                "lng": "16.953384"
+            },
+            "thumbnail": "\"piotrek\"",
+            "adres": "Wojrowicka 58",
+            "telefon": "",
+            "www": "",
+            "slug": "piotrek",
+            "likes": "170"
+        },
+        {
+            "id": 11895,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/piwowar\/",
+            "title": "Piwowar",
+            "marker": {
+                "lat": "51.150788",
+                "lng": "17.022751"
+            },
+            "thumbnail": "\"Piwowar2\"",
+            "adres": "ul. Paprotnna 4",
+            "telefon": "",
+            "www": "",
+            "slug": "piwowar",
+            "likes": "64"
+        },
+        {
+            "id": 11591,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/piwozlopek-i-piesel-piwosz\/",
+            "title": "Piwo\u017c\u0142opek i Piese\u0142 Piwosz",
+            "marker": {
+                "lat": "51.11041717404308",
+                "lng": "17.033548105487853"
+            },
+            "thumbnail": "\"Zloty",
+            "adres": "Wita Stwosza 1-2",
+            "telefon": "",
+            "www": "",
+            "slug": "piwozlopek-i-piesel-piwosz",
+            "likes": "129"
+        },
+        {
+            "id": 1295,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pocztowiec\/",
+            "title": "Pocztowiec",
+            "marker": {
+                "lat": "51.1090425",
+                "lng": "17.0325256"
+            },
+            "thumbnail": "\"Pocztowiec\"",
+            "adres": "Rynek 28, Poczta Polska",
+            "telefon": "",
+            "www": "",
+            "slug": "pocztowiec",
+            "likes": "119"
+        },
+        {
+            "id": 1296,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/podroznik\/",
+            "title": "Podr\u00f3\u017cnik",
+            "marker": {
+                "lat": "51.11211898312167",
+                "lng": "17.02996999025345"
+            },
+            "thumbnail": "\"Podr\u00f3\u017cnik\"",
+            "adres": "ul. Kie\u0142ba\u015bnicza 20",
+            "telefon": "",
+            "www": "",
+            "slug": "podroznik",
+            "likes": "181"
+        },
+        {
+            "id": 1614,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/polidenciak\/",
+            "title": "Polidenciak",
+            "marker": {
+                "lat": "51.1106734",
+                "lng": "17.0597853"
+            },
+            "thumbnail": "\"Polidenciak\"",
+            "adres": "Polident Wroc\u0142aw, pl. Grunwaldzki 15",
+            "telefon": "",
+            "www": "",
+            "slug": "polidenciak",
+            "likes": "104"
+        },
+        {
+            "id": 10973,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pomagajek\/",
+            "title": "Pomagajek",
+            "marker": {
+                "lat": "51.109893",
+                "lng": "17.0318238"
+            },
+            "thumbnail": "\"pomagajek",
+            "adres": "Krasnal Info - ul. Sukiennice 12",
+            "telefon": "",
+            "www": "",
+            "slug": "pomagajek",
+            "likes": "135"
+        },
+        {
+            "id": 1638,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pozarki\/",
+            "title": "Po\u017carki",
+            "marker": {
+                "lat": "51.1111647",
+                "lng": "17.0305889"
+            },
+            "thumbnail": "\"Po\u017carki\"",
+            "adres": "ul. \u015aw. Miko\u0142aja 1",
+            "telefon": "",
+            "www": "",
+            "slug": "pozarki",
+            "likes": "191"
+        },
+        {
+            "id": 1297,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pracz-odrzanski\/",
+            "title": "Pracz Odrza\u0144ski",
+            "marker": {
+                "lat": "51.1137655",
+                "lng": "17.041299"
+            },
+            "thumbnail": "\"Pracz",
+            "adres": "bulwar W\u0142ostowica",
+            "telefon": "",
+            "www": "",
+            "slug": "pracz-odrzanski",
+            "likes": "193"
+        },
+        {
+            "id": 11865,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/pralinka\/",
+            "title": "Pralinka",
+            "marker": {
+                "lat": "51.0888172",
+                "lng": "17.0672834"
+            },
+            "thumbnail": "\"pralinka2\"",
+            "adres": "ul. Krakowska 112-116, g\u0142\u00f3wny wjazd do E&S Industry (dawny Cussons) ",
+            "telefon": "",
+            "www": "",
+            "slug": "pralinka",
+            "likes": "53"
+        },
+        {
+            "id": 4675,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/prezentus\/",
+            "title": "Prezentu\u015b",
+            "marker": {
+                "lat": "51.11095877067957",
+                "lng": "17.034730911254883"
+            },
+            "thumbnail": "\"Prezentu\u015b",
+            "adres": "Rynek - Ratusz",
+            "telefon": "",
+            "www": "",
+            "slug": "prezentus",
+            "likes": "140"
+        },
+        {
+            "id": 1671,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/profesor\/",
+            "title": "Profesor",
+            "marker": {
+                "lat": "51.11371359623332",
+                "lng": "17.033486366271973"
+            },
+            "thumbnail": "\"Profesor\"",
+            "adres": "pl. Uniwersytecki",
+            "telefon": "",
+            "www": "",
+            "slug": "profesor",
+            "likes": "172"
+        },
+        {
+            "id": 11249,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/profilek\/",
+            "title": "Profilek",
+            "marker": {
+                "lat": "51.1287226",
+                "lng": "16.8805017"
+            },
+            "thumbnail": "\"profilek1\"",
+            "adres": " ul. Pio\u0142unowa 20 ",
+            "telefon": "",
+            "www": "",
+            "slug": "profilek",
+            "likes": "99"
+        },
+        {
+            "id": 4661,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/prolinka\/",
+            "title": "ProLinka",
+            "marker": {
+                "lat": "51.11044471284681",
+                "lng": "17.026331544180266"
+            },
+            "thumbnail": "\"ProLinka\"",
+            "adres": "Kazimierza Wielkiego 7",
+            "telefon": "",
+            "www": "",
+            "slug": "prolinka",
+            "likes": "160"
+        },
+        {
+            "id": 1642,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/promyk\/",
+            "title": "Promyk",
+            "marker": {
+                "lat": "51.097187",
+                "lng": "17.0315629"
+            },
+            "thumbnail": "\"Promyk\"",
+            "adres": "ul. Swobodna 8a",
+            "telefon": "",
+            "www": "",
+            "slug": "promyk",
+            "likes": "115"
+        },
+        {
+            "id": 1641,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/prywatek\/",
+            "title": "Prywatek",
+            "marker": {
+                "lat": "51.0812283",
+                "lng": "16.9696659"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "Bukowskiego 7a, prywatna posesja",
+            "telefon": "",
+            "www": "",
+            "slug": "prywatek",
+            "likes": "108"
+        },
+        {
+            "id": 1626,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/przedszkoludek\/",
+            "title": "Przedszkoludek",
+            "marker": {
+                "lat": "51.1062981",
+                "lng": "17.0192434"
+            },
+            "thumbnail": "\"Przedszkoludek\"",
+            "adres": "ul. Paw\u0142owa 6a",
+            "telefon": "",
+            "www": "",
+            "slug": "przedszkoludek",
+            "likes": "131"
+        },
+        {
+            "id": 1622,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/przemyslaw-parkus\/",
+            "title": "Przemys\u0142aw Parku\u015b",
+            "marker": {
+                "lat": "51.0481446",
+                "lng": "16.8816504"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Fabryczna 10",
+            "telefon": "",
+            "www": "",
+            "slug": "przemyslaw-parkus",
+            "likes": "97"
+        },
+        {
+            "id": 1298,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/przodownik\/",
+            "title": "Przodownik",
+            "marker": {
+                "lat": "51.1105382",
+                "lng": "17.0317573"
+            },
+            "thumbnail": "\"Przodownik\"",
+            "adres": "Rynek Ratusz 10",
+            "telefon": "",
+            "www": "",
+            "slug": "przodownik",
+            "likes": "108"
+        },
+        {
+            "id": 6430,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/przylepek\/",
+            "title": "Przylepek",
+            "marker": {
+                "lat": "51.110208",
+                "lng": "16.9268359"
+            },
+            "thumbnail": "\"Przylepek",
+            "adres": "ul. Graniczna 21",
+            "telefon": "",
+            "www": "",
+            "slug": "przylepek",
+            "likes": "121"
+        },
+        {
+            "id": 5970,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/radiotechnik\/",
+            "title": "Radiotechnik",
+            "marker": {
+                "lat": "51.0462414",
+                "lng": "16.8841141"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Fabryczna 20, Pietrzykowice",
+            "telefon": "",
+            "www": "",
+            "slug": "radiotechnik",
+            "likes": "112"
+        },
+        {
+            "id": 10106,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/radiowiec\/",
+            "title": "Radiowiec",
+            "marker": {
+                "lat": "51.07174149999999",
+                "lng": "17.0069471"
+            },
+            "thumbnail": "\"radiowiec3\"",
+            "adres": "aleja Karkonoska 10",
+            "telefon": "",
+            "www": "",
+            "slug": "radiowiec",
+            "likes": "83"
+        },
+        {
+            "id": 1299,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/recyklinek\/",
+            "title": "Recyklinek",
+            "marker": {
+                "lat": "51.1061431",
+                "lng": "17.0316149"
+            },
+            "thumbnail": "\"Recyklinek\"",
+            "adres": "ul. \u015awidnicka 31",
+            "telefon": "",
+            "www": "",
+            "slug": "recyklinek",
+            "likes": "147"
+        },
+        {
+            "id": 5439,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/krasnal-rejent\/",
+            "title": "Rejent",
+            "marker": {
+                "lat": "51.1100985",
+                "lng": "17.0284213"
+            },
+            "thumbnail": "\"rejent\"",
+            "adres": "ul. Ruska 3\/4",
+            "telefon": "",
+            "www": "",
+            "slug": "krasnal-rejent",
+            "likes": "104"
+        },
+        {
+            "id": 1672,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rejestrus\/",
+            "title": "Rejestru\u015b",
+            "marker": {
+                "lat": "51.15387500000001",
+                "lng": "17.125681"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Armii Ludowej 21",
+            "telefon": "",
+            "www": "",
+            "slug": "rejestrus",
+            "likes": "91"
+        },
+        {
+            "id": 5945,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rodzinka-krasnalowa\/",
+            "title": "Rodzinka Krasnalowa",
+            "marker": {
+                "lat": "51.14156819999999",
+                "lng": "16.8958781"
+            },
+            "thumbnail": "\"rodzinka",
+            "adres": "Rajska 71",
+            "telefon": "",
+            "www": "",
+            "slug": "rodzinka-krasnalowa",
+            "likes": "166"
+        },
+        {
+            "id": 6044,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rogalik\/",
+            "title": "Rogalik",
+            "marker": {
+                "lat": "51.1107627",
+                "lng": "17.0333485"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Ku\u017anicza 65\/66",
+            "telefon": "",
+            "www": "",
+            "slug": "rogalik",
+            "likes": "142"
+        },
+        {
+            "id": 6324,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/roszek\/",
+            "title": "Roszek",
+            "marker": {
+                "lat": "51.1121864",
+                "lng": "17.0647842"
+            },
+            "thumbnail": "\"Roszek-bada-psa\"",
+            "adres": "ul. Norwida 31, Uniwersytet Przyrodniczy - Wydzia\u0142 Medycyny Weterynaryjnej",
+            "telefon": "",
+            "www": "",
+            "slug": "roszek",
+            "likes": "264"
+        },
+        {
+            "id": 1640,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/royaldenciaki\/",
+            "title": "RoyalDenciaki",
+            "marker": {
+                "lat": "51.1080011",
+                "lng": "17.0312917"
+            },
+            "thumbnail": "\"RoyalDenciaki\"",
+            "adres": "ul. Leszczy\u0144skiego 5-7\/9, przychodnia stomatologiczna RoyalDent",
+            "telefon": "",
+            "www": "",
+            "slug": "royaldenciaki",
+            "likes": "103"
+        },
+        {
+            "id": 5261,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rozkwietnik\/",
+            "title": "Rozkwietnik",
+            "marker": {
+                "lat": "51.122841",
+                "lng": "17.04142"
+            },
+            "thumbnail": "\"rozkwietnik",
+            "adres": "ul. Kr\u0119ta 3, Centrum Zr\u00f3wnowa\u017conego Rozwoju Spo\u0142eczno\u015bci Wroc\u0142awia",
+            "telefon": "",
+            "www": "",
+            "slug": "rozkwietnik",
+            "likes": "103"
+        },
+        {
+            "id": 1591,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rycerz-jadwizanski\/",
+            "title": "Rycerz Jadwi\u017ca\u0144ski",
+            "marker": {
+                "lat": "51.1463305",
+                "lng": "16.8705715"
+            },
+            "thumbnail": "\"rycerz_Jadwizanski2",
+            "adres": "Plac \u015awi\u0119toja\u0144ski 1",
+            "telefon": "",
+            "www": "",
+            "slug": "rycerz-jadwizanski",
+            "likes": "109"
+        },
+        {
+            "id": 1300,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/rzeznik\/",
+            "title": "Rze\u017anik",
+            "marker": {
+                "lat": "51.1120689",
+                "lng": "17.0310527"
+            },
+            "thumbnail": "\"Rze\u017anik\"",
+            "adres": "Jatki",
+            "telefon": "",
+            "www": "",
+            "slug": "rzeznik",
+            "likes": "152"
+        },
+        {
+            "id": 1628,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/saper\/",
+            "title": "Saper",
+            "marker": {
+                "lat": "51.151013",
+                "lng": "17.0172071"
+            },
+            "thumbnail": "\"Saper\"",
+            "adres": "eren jednostki Wojska Polskiego, ul. Obornicka 108",
+            "telefon": "",
+            "www": "",
+            "slug": "saper",
+            "likes": "151"
+        },
+        {
+            "id": 1610,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/serdecznis\/",
+            "title": "Serdeczni\u015b",
+            "marker": {
+                "lat": "51.112022961654304",
+                "lng": "17.059761241803017"
+            },
+            "thumbnail": "\"Serdeczni\u015b\"",
+            "adres": "Pasa\u017c Grunwaldzki, pl. Grunwaldzki 22",
+            "telefon": "",
+            "www": "",
+            "slug": "serdecznis",
+            "likes": "127"
+        },
+        {
+            "id": 1301,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/skarbus\/",
+            "title": "Skarbu\u015b",
+            "marker": {
+                "lat": "51.148388",
+                "lng": "17.031278"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "Dolno\u015bl\u0105ski Urz\u0105d Skarbowy, ul. \u017bmigrodzka 141",
+            "telefon": "",
+            "www": "",
+            "slug": "skarbus",
+            "likes": "120"
+        },
+        {
+            "id": 1634,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/skryba\/",
+            "title": "Skryba",
+            "marker": {
+                "lat": "51.112538",
+                "lng": "17.035909"
+            },
+            "thumbnail": "\"Skryba\"",
+            "adres": "ul. Szewska 36",
+            "telefon": "",
+            "www": "",
+            "slug": "skryba",
+            "likes": "123"
+        },
+        {
+            "id": 1618,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/slazak\/",
+            "title": "\u015al\u0105zak",
+            "marker": {
+                "lat": "51.0970699",
+                "lng": "16.9958469"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Oporowska 62",
+            "telefon": "",
+            "www": "",
+            "slug": "slazak",
+            "likes": "123"
+        },
+        {
+            "id": 1658,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/slepak-i-gluchak\/",
+            "title": "\u015alepak i G\u0142uchak",
+            "marker": {
+                "lat": "51.10956263582451",
+                "lng": "17.03148795106506"
+            },
+            "thumbnail": "\"G\u0142uchak\"",
+            "adres": "Rynek 1",
+            "telefon": "",
+            "www": "",
+            "slug": "slepak-i-gluchak",
+            "likes": "184"
+        },
+        {
+            "id": 1800,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/slupniki-olawskie\/",
+            "title": "S\u0142upniki O\u0142awskie",
+            "marker": {
+                "lat": "51.1080412",
+                "lng": "17.0372268"
+            },
+            "thumbnail": "\"S\u0142upnik",
+            "adres": "ul. O\u0142awska",
+            "telefon": "",
+            "www": "",
+            "slug": "slupniki-olawskie",
+            "likes": "139"
+        },
+        {
+            "id": 1799,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/slupniki-solne\/",
+            "title": "S\u0142upniki Solne",
+            "marker": {
+                "lat": "51.1093126",
+                "lng": "17.0288395"
+            },
+            "thumbnail": "\"S\u0142upnik",
+            "adres": "pl. Solny",
+            "telefon": "",
+            "www": "",
+            "slug": "slupniki-solne",
+            "likes": "136"
+        },
+        {
+            "id": 1801,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/slupniki-swidnickie\/",
+            "title": "S\u0142upniki \u015awidnickie",
+            "marker": {
+                "lat": "51.1047143",
+                "lng": "17.0310268"
+            },
+            "thumbnail": "\"S\u0142upnik",
+            "adres": "ul. \u015awidnicka",
+            "telefon": "",
+            "www": "",
+            "slug": "slupniki-swidnickie",
+            "likes": "117"
+        },
+        {
+            "id": 1700,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/solidarek\/",
+            "title": "Solidarek",
+            "marker": {
+                "lat": "51.11283599999999",
+                "lng": "17.0181643"
+            },
+            "thumbnail": "\"Solidarek\"",
+            "adres": "Pl. Solidarno\u015bci 1\/3\/5",
+            "telefon": "",
+            "www": "",
+            "slug": "solidarek",
+            "likes": "110"
+        },
+        {
+            "id": 1302,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/spioch\/",
+            "title": "\u015apioch",
+            "marker": {
+                "lat": "51.111154106018176",
+                "lng": "17.030487656593323"
+            },
+            "thumbnail": "\"\u015apioch\"",
+            "adres": "ul. \u015bw. Miko\u0142aja",
+            "telefon": "",
+            "www": "",
+            "slug": "spioch",
+            "likes": "215"
+        },
+        {
+            "id": 5944,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/sportus\/",
+            "title": "Sportu\u015b",
+            "marker": {
+                "lat": "51.10812300000001",
+                "lng": "17.0250081"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "W\u0142odkowica 5, The Winners Pub",
+            "telefon": "",
+            "www": "",
+            "slug": "sportus",
+            "likes": "122"
+        },
+        {
+            "id": 5994,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/sprawiedliwiusz\/",
+            "title": "Sprawiedliwiusz",
+            "marker": {
+                "lat": "51.1146935",
+                "lng": "17.0405753"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "\u015bw. Jadwigi 12",
+            "telefon": "",
+            "www": "",
+            "slug": "sprawiedliwiusz",
+            "likes": "129"
+        },
+        {
+            "id": 1303,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/straznik\/",
+            "title": "Stra\u017cnik",
+            "marker": {
+                "lat": "51.1012148",
+                "lng": "17.0376653"
+            },
+            "thumbnail": "\"Stra\u017cnik\"",
+            "adres": "ul. Gwarna 5-7",
+            "telefon": "",
+            "www": "",
+            "slug": "straznik",
+            "likes": "156"
+        },
+        {
+            "id": 5264,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/suvenirek\/",
+            "title": "Suvenirek",
+            "marker": {
+                "lat": "51.1106264",
+                "lng": "17.0305108"
+            },
+            "thumbnail": "\"suvenirek2\"",
+            "adres": "Rynek 3",
+            "telefon": "",
+            "www": "",
+            "slug": "suvenirek",
+            "likes": "159"
+        },
+        {
+            "id": 1702,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/swietlik\/",
+            "title": "\u015awietlik",
+            "marker": {
+                "lat": "51.07884182921406",
+                "lng": "17.006664276123047"
+            },
+            "thumbnail": "\"swietlik1\"",
+            "adres": "linie tramwajowe 4, 6, 7, 11, 20.",
+            "telefon": "",
+            "www": "",
+            "slug": "swietlik",
+            "likes": "172"
+        },
+        {
+            "id": 1304,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/syzyfki\/",
+            "title": "Syzyfki",
+            "marker": {
+                "lat": "51.10893127582088",
+                "lng": "17.032865434885025"
+            },
+            "thumbnail": "\"Syzyfki\"",
+            "adres": "ul. \u015awidnicka",
+            "telefon": "",
+            "www": "",
+            "slug": "syzyfki",
+            "likes": "508"
+        },
+        {
+            "id": 1583,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/szczesciarze\/",
+            "title": "Szcz\u0119\u015bciarze",
+            "marker": {
+                "lat": "51.0703869",
+                "lng": "17.011802"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Wojszycka 8, Restauracja Podkowa",
+            "telefon": "",
+            "www": "",
+            "slug": "szczesciarze",
+            "likes": "131"
+        },
+        {
+            "id": 5168,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/szczesliwek\/",
+            "title": "Szcz\u0119\u015bliwek",
+            "marker": {
+                "lat": "51.098444",
+                "lng": "17.011549"
+            },
+            "thumbnail": "\"szczesliwek\"",
+            "adres": "Szko\u0142a Podstawowa Nr 68, ul. Szcz\u0119\u015bliwa 28",
+            "telefon": "",
+            "www": "",
+            "slug": "szczesliwek",
+            "likes": "163"
+        },
+        {
+            "id": 1699,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/szermierz-skradziony\/",
+            "title": "Szermierz",
+            "marker": {
+                "lat": "51.1139324934211",
+                "lng": "17.03427493572235"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "pl. Uniwersytecki",
+            "telefon": "",
+            "www": "",
+            "slug": "szermierz-skradziony",
+            "likes": "139"
+        },
+        {
+            "id": 1701,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/szol-mastgolon\/",
+            "title": "Szo\u0142 Mastgo\u0142o\u0144",
+            "marker": {
+                "lat": "51.1008719",
+                "lng": "17.0303613"
+            },
+            "thumbnail": "\"Capitolek\"",
+            "adres": " Pi\u0142sudskiego 67",
+            "telefon": "",
+            "www": "",
+            "slug": "szol-mastgolon",
+            "likes": "142"
+        },
+        {
+            "id": 6302,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/szomol\/",
+            "title": "Szomol",
+            "marker": {
+                "lat": "51.10676549999999",
+                "lng": "17.0279831"
+            },
+            "thumbnail": "\"szomol-2\"",
+            "adres": "plac Wolno\u015bci 1, NFM",
+            "telefon": "",
+            "www": "",
+            "slug": "szomol",
+            "likes": "135"
+        },
+        {
+            "id": 1662,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/tabus-i-assik\/",
+            "title": "Tabu\u015b i Assik",
+            "marker": {
+                "lat": "51.02606549999999",
+                "lng": "16.8921972"
+            },
+            "thumbnail": "\"Tabu\u015b",
+            "adres": "ul. LG 1 (Biskupice Podg\u00f3rne k\/Wroc\u0142awia)",
+            "telefon": "",
+            "www": "",
+            "slug": "tabus-i-assik",
+            "likes": "120"
+        },
+        {
+            "id": 1306,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/telefonista\/",
+            "title": "Telefonista",
+            "marker": {
+                "lat": "51.1046206",
+                "lng": "17.0456148"
+            },
+            "thumbnail": "\"Telefonista\"",
+            "adres": "ul. Gen. J. Haukego-Bosaka 21",
+            "telefon": "",
+            "www": "",
+            "slug": "telefonista",
+            "likes": "120"
+        },
+        {
+            "id": 1579,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/telesfor\/",
+            "title": "Telesfor",
+            "marker": {
+                "lat": "51.072288",
+                "lng": "17.006974"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Karkonoska 8",
+            "telefon": "",
+            "www": "",
+            "slug": "telesfor",
+            "likes": "88"
+        },
+        {
+            "id": 1307,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/temidek\/",
+            "title": "Temidek",
+            "marker": {
+                "lat": "51.1082105",
+                "lng": "17.0242006"
+            },
+            "thumbnail": "\"Temidek\"",
+            "adres": "Okr\u0119gowa Izba Radc\u00f3w Prawnych, ul. W\u0142odkowica 8",
+            "telefon": "",
+            "www": "",
+            "slug": "temidek",
+            "likes": "105"
+        },
+        {
+            "id": 1631,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/tescoma\/",
+            "title": "Tescoma",
+            "marker": {
+                "lat": "51.1024713",
+                "lng": "17.0368961"
+            },
+            "thumbnail": "\"Tescoma\"",
+            "adres": "ul. Ko\u0142\u0142\u0105taja 27\/28",
+            "telefon": "",
+            "www": "",
+            "slug": "tescoma",
+            "likes": "96"
+        },
+        {
+            "id": 1656,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/torfik\/",
+            "title": "Torfik",
+            "marker": {
+                "lat": "51.0792639",
+                "lng": "17.0427744"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Orzechowa 62",
+            "telefon": "",
+            "www": "",
+            "slug": "torfik",
+            "likes": "101"
+        },
+        {
+            "id": 1612,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trabibrzuch\/",
+            "title": "Tr\u0105bibrzuch",
+            "marker": {
+                "lat": "51.1126561",
+                "lng": "17.0592248"
+            },
+            "thumbnail": "\"Tr\u0105bibrzuch\"",
+            "adres": "Plac Grunwaldzki 22",
+            "telefon": "",
+            "www": "",
+            "slug": "trabibrzuch",
+            "likes": "114"
+        },
+        {
+            "id": 1611,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trendus\/",
+            "title": "Trendu\u015b",
+            "marker": {
+                "lat": "51.1126561",
+                "lng": "17.0592248"
+            },
+            "thumbnail": "\"Trendu\u015b\"",
+            "adres": " Pl. Grunwaldzki 22, Pasa\u017c grunwaldzki",
+            "telefon": "",
+            "www": "",
+            "slug": "trendus",
+            "likes": "111"
+        },
+        {
+            "id": 1668,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trener\/",
+            "title": "Trener",
+            "marker": {
+                "lat": "51.113989743283796",
+                "lng": "17.094168663024902"
+            },
+            "thumbnail": "\"Tadeusz",
+            "adres": "ul. Mickiewicza, teren AWF",
+            "telefon": "",
+            "www": "",
+            "slug": "trener",
+            "likes": "125"
+        },
+        {
+            "id": 5995,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trisomek\/",
+            "title": "Trisomek",
+            "marker": {
+                "lat": "51.1149379",
+                "lng": "17.0461299"
+            },
+            "thumbnail": "\"SONY",
+            "adres": "Kapitulna 4",
+            "telefon": "",
+            "www": "",
+            "slug": "trisomek",
+            "likes": "743"
+        },
+        {
+            "id": 10166,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trojkuc-wywiadek\/",
+            "title": "Tr\u00f3jku\u0107 Wywiadek",
+            "marker": {
+                "lat": "51.1092319",
+                "lng": "17.0227292"
+            },
+            "thumbnail": "\"wywiadek2\"",
+            "adres": "Bulwar Tadka Jasi\u0144skiego",
+            "telefon": "",
+            "www": "",
+            "slug": "trojkuc-wywiadek",
+            "likes": "177"
+        },
+        {
+            "id": 4732,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/truchcia\/",
+            "title": "Truchcia",
+            "marker": {
+                "lat": "51.107991",
+                "lng": "17.026849"
+            },
+            "thumbnail": "\"truchcia_facebook\"",
+            "adres": "Krupnicza 6-8",
+            "telefon": "",
+            "www": "",
+            "slug": "truchcia",
+            "likes": "155"
+        },
+        {
+            "id": 11212,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/trufelek\/",
+            "title": "Trufelek",
+            "marker": {
+                "lat": "51.05851",
+                "lng": "17.0103121"
+            },
+            "thumbnail": "\"trufelek4\"",
+            "adres": "ul. Zwyci\u0119ska 14CC\/A, 52-204 Wroc\u0142aw ",
+            "telefon": "",
+            "www": "",
+            "slug": "trufelek",
+            "likes": "95"
+        },
+        {
+            "id": 1585,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/turysta\/",
+            "title": "Turysta",
+            "marker": {
+                "lat": "51.10961160793159",
+                "lng": "17.030670046806335"
+            },
+            "thumbnail": "\"Turysta\"",
+            "adres": "Centrum Informacji Turytycznej, Rynek 14",
+            "telefon": "",
+            "www": "",
+            "slug": "turysta",
+            "likes": "160"
+        },
+        {
+            "id": 1308,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/tynqus\/",
+            "title": "TynQu\u015b",
+            "marker": {
+                "lat": "51.11",
+                "lng": "17.0320833"
+            },
+            "thumbnail": "\"Tynku\u015b\"",
+            "adres": "ul. Sukiennice 6",
+            "telefon": "",
+            "www": "",
+            "slug": "tynqus",
+            "likes": "172"
+        },
+        {
+            "id": 11898,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/vertigus\/",
+            "title": "Vertigu\u015b",
+            "marker": {
+                "lat": "51.108345",
+                "lng": "17.035372"
+            },
+            "thumbnail": "\"vertigu\u015b1\"",
+            "adres": "ul. O\u0142awska 13",
+            "telefon": "",
+            "www": "",
+            "slug": "vertigus",
+            "likes": "46"
+        },
+        {
+            "id": 1309,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/w-skers-link\/",
+            "title": "W-Skers",
+            "marker": {
+                "lat": "51.1095726",
+                "lng": "17.0320605"
+            },
+            "thumbnail": "\"W-skers\"",
+            "adres": "Rynek-Ratusz",
+            "telefon": "",
+            "www": "",
+            "slug": "w-skers-link",
+            "likes": "159"
+        },
+        {
+            "id": 4648,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wagus\/",
+            "title": "Wagu\u015b",
+            "marker": {
+                "lat": "51.087351",
+                "lng": "17.0597019"
+            },
+            "thumbnail": "\"WAGU\u015a\"",
+            "adres": "ul. Pi\u0119kna 58a",
+            "telefon": "",
+            "www": "",
+            "slug": "wagus",
+            "likes": "118"
+        },
+        {
+            "id": 1280,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/motocyklista\/",
+            "title": "Wentyl - Krasnal Motocyklista",
+            "marker": {
+                "lat": "51.109538",
+                "lng": "17.0346559"
+            },
+            "thumbnail": "\"Motocyklista\"",
+            "adres": "Szewska 10",
+            "telefon": "",
+            "www": "",
+            "slug": "motocyklista",
+            "likes": "322"
+        },
+        {
+            "id": 5059,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/weteran\/",
+            "title": "Weteran",
+            "marker": {
+                "lat": "51.11151886526214",
+                "lng": "17.03082855092623"
+            },
+            "thumbnail": "\"Krasnal",
+            "adres": "\u015awi\u0119tej El\u017cbiety 1, Ko\u015bci\u00f3\u0142 pw. \u015bw. El\u017cbiety",
+            "telefon": "",
+            "www": "",
+            "slug": "weteran",
+            "likes": "144"
+        },
+        {
+            "id": 1607,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/weterynarz\/",
+            "title": "Weterynarz",
+            "marker": {
+                "lat": "51.08030489999999",
+                "lng": "17.022133"
+            },
+            "thumbnail": "\"Weterynarz\"",
+            "adres": "ul. \u015al\u0119\u017cna 136",
+            "telefon": "",
+            "www": "",
+            "slug": "weterynarz",
+            "likes": "164"
+        },
+        {
+            "id": 5519,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wiesiek-partnerski\/",
+            "title": "Wiesiek Partnerski",
+            "marker": {
+                "lat": "51.1099693",
+                "lng": "17.0318471"
+            },
+            "thumbnail": "\"wiesiek",
+            "adres": "Sukiennice, Urz\u0105d Miasta",
+            "telefon": "",
+            "www": "",
+            "slug": "wiesiek-partnerski",
+            "likes": "152"
+        },
+        {
+            "id": 1310,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wiezien-znany-tez-jako-wieziennik\/",
+            "title": "Wi\u0119zie\u0144, znany te\u017c jako Wi\u0119ziennik",
+            "marker": {
+                "lat": "51.11242039784289",
+                "lng": "17.032555639743805"
+            },
+            "thumbnail": "\"Wi\u0119ziennik\"",
+            "adres": "ul. Wi\u0119zienna",
+            "telefon": "",
+            "www": "",
+            "slug": "wiezien-znany-tez-jako-wieziennik",
+            "likes": "259"
+        },
+        {
+            "id": 1602,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wodziarz\/",
+            "title": "Wodziarz",
+            "marker": {
+                "lat": "51.10987767568642",
+                "lng": "17.03131377696991"
+            },
+            "thumbnail": "\"Wodziarz\"",
+            "adres": "Rynek, Restauracja \"Pod Fredr\u0105\"",
+            "telefon": "",
+            "www": "",
+            "slug": "wodziarz",
+            "likes": "169"
+        },
+        {
+            "id": 4843,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wolontarek\/",
+            "title": "Wolontarek",
+            "marker": {
+                "lat": "51.1262611",
+                "lng": "16.9831608"
+            },
+            "thumbnail": "\"wolontarek3\"",
+            "adres": "Legnicka 65",
+            "telefon": "",
+            "www": "",
+            "slug": "wolontarek",
+            "likes": "137"
+        },
+        {
+            "id": 1654,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wrati-i-slawi\/",
+            "title": "Wrati i Slawi",
+            "marker": {
+                "lat": "51.08912702225476",
+                "lng": "17.0656477"
+            },
+            "thumbnail": "\"WRATI",
+            "adres": "Krakowska 71-105, sklep Selgros ",
+            "telefon": "",
+            "www": "",
+            "slug": "wrati-i-slawi",
+            "likes": "135"
+        },
+        {
+            "id": 1644,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wroc-ek\/",
+            "title": "Wroc-ek",
+            "marker": {
+                "lat": "51.1695329",
+                "lng": "16.902006"
+            },
+            "thumbnail": "\"Wroc-ek\"",
+            "adres": "ul. Stab\u0142owicka 143",
+            "telefon": "",
+            "www": "",
+            "slug": "wroc-ek",
+            "likes": "132"
+        },
+        {
+            "id": 2350,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wrocklik\/",
+            "title": "Wrocklik",
+            "marker": {
+                "lat": "51.099323",
+                "lng": "17.028845"
+            },
+            "thumbnail": "\"Wrocklik\"",
+            "adres": "ul. Powsta\u0144c\u00f3w \u015al\u0105skich 2\/4",
+            "telefon": "",
+            "www": "",
+            "slug": "wrocklik",
+            "likes": "161"
+        },
+        {
+            "id": 1311,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wroclovek\/",
+            "title": "WrocLovek",
+            "marker": {
+                "lat": "51.11113053110731",
+                "lng": "17.030761241912842"
+            },
+            "thumbnail": "\"wroclovek\"",
+            "adres": "kamieniczka Ma\u0142gosia przy Rynku",
+            "telefon": "",
+            "www": "",
+            "slug": "wroclovek",
+            "likes": "353"
+        },
+        {
+            "id": 1653,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wspolczesio\/",
+            "title": "Wsp\u00f3\u0142Czesio",
+            "marker": {
+                "lat": "51.109706",
+                "lng": "17.0375498"
+            },
+            "thumbnail": "\"Wsp\u00f3\u0142Czesio\"",
+            "adres": "ul. Wita Stwosza 32, BWA",
+            "telefon": "",
+            "www": "",
+            "slug": "wspolczesio",
+            "likes": "227"
+        },
+        {
+            "id": 1312,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wyksztalciuch-link\/",
+            "title": "Wykszta\u0142ciuch",
+            "marker": {
+                "lat": "51.10718998415723",
+                "lng": "17.059847116470337"
+            },
+            "thumbnail": "\"Wykszta\u0142ciuch\"",
+            "adres": "ul. Wyspia\u0144skiego, Politechnika Wroc\u0142awska budynek C-13",
+            "telefon": "",
+            "www": "",
+            "slug": "wyksztalciuch-link",
+            "likes": "135"
+        },
+        {
+            "id": 1313,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wyplatnik\/",
+            "title": "Wyp\u0142atnik",
+            "marker": {
+                "lat": "51.1099882",
+                "lng": "17.0301822"
+            },
+            "thumbnail": "\"Wyp\u0142atnik\"",
+            "adres": "Bank Zachodni WBK, Rynek 9\/11",
+            "telefon": "",
+            "www": "",
+            "slug": "wyplatnik",
+            "likes": "200"
+        },
+        {
+            "id": 1646,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/wytrwalek\/",
+            "title": "Wytrwa\u0142ek",
+            "marker": {
+                "lat": "51.0934773",
+                "lng": "17.023677"
+            },
+            "thumbnail": "\"Wytrwa\u0142ek\"",
+            "adres": "ul. Trwa\u0142a 17\/19",
+            "telefon": "",
+            "www": "",
+            "slug": "wytrwalek",
+            "likes": "131"
+        },
+        {
+            "id": 12429,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/yunnanek\/",
+            "title": "Yunnanek",
+            "marker": {
+                "lat": "51.1124917",
+                "lng": "17.0393637"
+            },
+            "thumbnail": "\"dddd\"",
+            "adres": "ul. Piaskowa 17",
+            "telefon": "",
+            "www": "",
+            "slug": "yunnanek",
+            "likes": "37"
+        },
+        {
+            "id": 1576,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zaczek\/",
+            "title": "\u017baczek",
+            "marker": {
+                "lat": "51.106156",
+                "lng": "17.035628"
+            },
+            "thumbnail": "\"\u017baczek\"",
+            "adres": "ul. Mennicza 21\/23",
+            "telefon": "",
+            "www": "",
+            "slug": "zaczek",
+            "likes": "191"
+        },
+        {
+            "id": 10798,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zgryzek\/",
+            "title": "Zgryzek",
+            "marker": {
+                "lat": "51.0610654",
+                "lng": "17.0274604"
+            },
+            "thumbnail": "\"zgryzek\"",
+            "adres": "ul. Parafialna 57 52-233 Wroc\u0142aw ",
+            "telefon": "",
+            "www": "",
+            "slug": "zgryzek",
+            "likes": "156"
+        },
+        {
+            "id": 5661,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zikusia\/",
+            "title": "Zikusia",
+            "marker": {
+                "lat": "51.101679",
+                "lng": "17.029768"
+            },
+            "thumbnail": "\"zikusia\"",
+            "adres": "Ziko-Apteka ul. \u015awidnicka 48",
+            "telefon": "",
+            "www": "",
+            "slug": "zikusia",
+            "likes": "321"
+        },
+        {
+            "id": 12628,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zlociak\/",
+            "title": "Z\u0142ociak",
+            "marker": {
+                "lat": "51.1136737",
+                "lng": "16.9928706"
+            },
+            "thumbnail": "\"Z\u0142ociak\"",
+            "adres": "Santander Consumer Bank S.A. ul. Strzegomska 42c, 53-611 Wroc\u0142aw ",
+            "telefon": "",
+            "www": "",
+            "slug": "zlociak",
+            "likes": "24"
+        },
+        {
+            "id": 11862,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zloty-krasnal\/",
+            "title": "Z\u0142oty Krasnal",
+            "marker": {
+                "lat": "51.138046",
+                "lng": "16.897635"
+            },
+            "thumbnail": "\"krasnal0\"",
+            "adres": "Z\u0142ote Przedszkole, ul. Ma\u0142opolska 5 54-032 Wroc\u0142aw",
+            "telefon": "",
+            "www": "",
+            "slug": "zloty-krasnal",
+            "likes": "185"
+        },
+        {
+            "id": 10982,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zoska\/",
+            "title": "Zo\u015bka",
+            "marker": {
+                "lat": "51.1109855",
+                "lng": "17.0280499"
+            },
+            "thumbnail": "\"zo\u017cka2\"",
+            "adres": "Coctail Bar Max & Dom Whisky, Rze\u017anicza 28-31",
+            "telefon": "",
+            "www": "",
+            "slug": "zoska",
+            "likes": "195"
+        },
+        {
+            "id": 1315,
+            "objLink": "http:\/\/krasnale.pl\/krasnal\/zyczliwek\/",
+            "title": "\u017byczliwek",
+            "marker": {
+                "lat": "51.11037207671388",
+                "lng": "17.031065672636032"
+            },
+            "thumbnail": "\"\u017byczliwek\"",
+            "adres": "Rynek, pl. Go\u0142\u0119bi ko\u0142o fontanny",
+            "telefon": "",
+            "www": "",
+            "slug": "zyczliwek",
+            "likes": "543"
+        }
+    ],
+    "paths": []
+}
