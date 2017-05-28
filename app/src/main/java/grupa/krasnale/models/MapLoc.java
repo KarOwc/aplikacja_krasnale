@@ -2,7 +2,9 @@ package grupa.krasnale.models;
 
 import com.google.android.gms.maps.model.LatLng;
 
-public class MapLoc {
+import java.io.Serializable;
+
+public class MapLoc implements Serializable {
     public Double lat;
     public Double lng;
 

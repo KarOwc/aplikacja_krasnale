@@ -1,4 +1,4 @@
-package grupa.krasnale;
+package grupa.krasnale.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -8,6 +8,7 @@ import android.widget.TextView;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.model.Marker;
 
+import grupa.krasnale.R;
 import grupa.krasnale.models.DwarfModel;
 
 public class InfoWindowAdapter implements GoogleMap.InfoWindowAdapter {

@@ -1,7 +1,9 @@
 package grupa.krasnale.models;
 
-public class DwarfModel {
-    public int    id;
+import java.io.Serializable;
+
+public class DwarfModel implements Serializable {
+    public int id;
     public String objLink;
     public String title;
     public MapLoc marker;
