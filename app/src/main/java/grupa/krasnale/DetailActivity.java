@@ -42,18 +42,18 @@ public class DetailActivity extends AppCompatActivity implements OnMapReadyCallb
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(grupa.krasnale.R.layout.detail_activity);
+        setContentView(R.layout.detail_activity);
 
         // znajdowanie elementow z UI
-        descriptionTextView = (TextView) findViewById(grupa.krasnale.R.id.description);
-        titleTextView = (TextView) findViewById(grupa.krasnale.R.id.title);
-        imageView = (ImageView) findViewById(grupa.krasnale.R.id.image);
+        descriptionTextView = (TextView) findViewById(R.id.description);
+        titleTextView = (TextView) findViewById(R.id.title);
+        imageView = (ImageView) findViewById(R.id.image);
 
         // odebranie krasnala z intentu
         dwarfModel = (DwarfModel) getIntent().getSerializableExtra("krasnal");
 
         // tak jak wczesniej ladowanie mapy
-        MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(grupa.krasnale.R.id.map);
+        MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
 
         // ustawienie tytulu bo to juz mamy
@@ -72,7 +72,7 @@ public class DetailActivity extends AppCompatActivity implements OnMapReadyCallb
             @Override
             public void onErrorResponse(VolleyError error) {
                 // jesli blad poleci pokaze sie tekst ze sie nie udalo pobrac
-                descriptionTextView.setText(grupa.krasnale.R.string.error);
+                descriptionTextView.setText(R.string.error);
             }
         });
         requestQueue.add(request);

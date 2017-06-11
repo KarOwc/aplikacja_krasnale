@@ -2,4 +2,7 @@
     <string name="app_name">Krasnale</string>
     <string name="znajd_jakiego_krasnala">Znajdź jakiegoś krasnala</string>
     <string name="error">Error downloading...</string>
+    <string name="sortuj_alfabetycznie">Sortuj alfabetycznie</string>
+    <string name="sortuj_wg_odleglosci">Sortuj wg odleglosci</string>
+    <string name="dwarf_list">Lista krasnali</string>
 </resources>

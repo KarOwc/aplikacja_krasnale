@@ -3,6 +3,11 @@
     package="grupa.krasnale">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+    <uses-feature android:name="android.hardware.location.gps" />
+
 
     <application
         android:allowBackup="true"
@@ -20,6 +25,10 @@
         </activity>
 
         <activity android:name="grupa.krasnale.DetailActivity" />
+
+        <activity
+            android:name="grupa.krasnale.ListActivity"
+            android:theme="@style/ListTheme" />
 
         <meta-data
             android:name="com.google.android.gms.version"

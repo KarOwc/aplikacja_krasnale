@@ -1,8 +1,12 @@
 package grupa.krasnale;
 
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
+import android.support.annotation.NonNull;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
@@ -31,7 +35,10 @@ import grupa.krasnale.adapters.SearchResultAdapter;
 import grupa.krasnale.models.DwarfModel;
 import grupa.krasnale.services.DataService;
 
-// to jest aktywnosc androidowa- działanie androida
+import static android.Manifest.permission.ACCESS_COARSE_LOCATION;
+import static android.Manifest.permission.ACCESS_FINE_LOCATION;
+
+
 public class MainActivity
         extends AppCompatActivity
         implements OnMapReadyCallback, SearchResultAdapter.Callback, GoogleMap.OnInfoWindowClickListener {
@@ -40,7 +47,7 @@ public class MainActivity
     DataService service;
     // referencja do mapy
     private GoogleMap googleMap;
-    // lista markerow w postaci slownika (dla latwiejszego znajdowania markerow)
+    // lista markerow w postaci slownika dla latwiejszego znajdowania markerow
     private Map<String, Marker> markers = new HashMap<>();
     // adapter do wyszukiwanych krasnali
     SearchResultAdapter adapter;
@@ -51,27 +58,26 @@ public class MainActivity
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        //inicjonowanie aktywności oraz ustawienie odpowiedniego pliku widoku( layout'u) dla aktywnosci
         super.onCreate(savedInstanceState);
-        setContentView(grupa.krasnale.R.layout.activity_main);
+        setContentView(R.layout.activity_main);
 
-        //tworzenie  serwisu, ktory odczytuje wszystkie dane krasnali
+        //tworzony jest serwis ktory odczytuje wszystkie dane krasnali
         service = new DataService(this);
         // odnajduje na layoucie fragment z mapa
-        MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(grupa.krasnale.R.id.map);
-        // inicjacja mapy google
+        MapFragment mapFragment = (MapFragment) getFragmentManager().findFragmentById(R.id.map);
+        // inicjacja mapy tego ona wymaga jest w dokumentacji google: android google map getting started
         mapFragment.getMapAsync(this);
 
 
         // ustawienie listy z wyszukanymi krasnalami
         adapter = new SearchResultAdapter(this);
-        RecyclerView recyclerView = (RecyclerView) findViewById(grupa.krasnale.R.id.recyclerView);
+        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         recyclerView.setAdapter(adapter);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        searchResultView = findViewById(grupa.krasnale.R.id.searchResult);
+        searchResultView = findViewById(R.id.searchResult);
         searchResultView.setVisibility(View.GONE);
 
-        searchEditText = (EditText) findViewById(grupa.krasnale.R.id.searchEditText);
+        searchEditText = (EditText) findViewById(R.id.searchEditText);
         searchEditText.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -85,7 +91,7 @@ public class MainActivity
 
             @Override
             public void afterTextChanged(Editable s) {
-                // wyczyszczenie wyszukiwania jesli wpisany tekst jest krotszy niz 2 znaki
+                // wyczysc wyszukiwania jesli wpisany tekst jest krotszy niz 2 znaki
                 if (s.length() < 2) {
                     adapter.setNewFound(new ArrayList<DwarfModel>());
                     searchResultView.setVisibility(View.GONE);
@@ -109,33 +115,60 @@ public class MainActivity
                 adapter.setNewFound(found);
             }
         });
+
+        findViewById(R.id.more).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, ListActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
-    // W momencie zainicjalizowania mapy pojawia się to:
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                requestPermissions(new String[]{ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION}, 0);
+            }
+        } else {
+            googleMap.setMyLocationEnabled(true);
+        }
+    }
+
+    // to sie wywoluje jak mapa sie zainicjalizuje
     @Override
     public void onMapReady(final GoogleMap googleMap) {
         this.googleMap = googleMap;
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
+                requestPermissions(new String[]{ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION}, 0);
+            }
+        } else {
+            googleMap.setMyLocationEnabled(true);
+        }
         // tworzenie wszystkich markerow z krasnalami
-        LatLngBounds.Builder builder = new LatLngBounds.Builder(); // to sluzy do zasięgu na mapie tak zeby widac bylo wszystkie krasnale
+        LatLngBounds.Builder builder = new LatLngBounds.Builder(); // to sluzy do ustawienia kamery na mapie tak zeby widac bylo wszystkie krasnale
         List<DwarfModel> dwarfs = service.dwarfs;
         for (int i = 0; i < dwarfs.size(); i++) {
             DwarfModel dwarf = dwarfs.get(i);
 
-            LatLng latLng = dwarf.marker.getLatLng(); // pozycja krasnala na mapie
-            MarkerOptions markerOptions = new MarkerOptions().position(latLng); // tworzenie markera
-            Marker marker = googleMap.addMarker(markerOptions); // dodanie markera do mapy
-            marker.setTag(dwarf); // dodanie do markera dane model krasnala
-            builder.include(latLng); //dodanie  pozycje do buildera
+            LatLng latLng = dwarf.marker.getLatLng();
+            MarkerOptions markerOptions = new MarkerOptions().position(latLng);
+            Marker marker = googleMap.addMarker(markerOptions);
+            marker.setTag(dwarf);
+            builder.include(latLng);
             markers.put(dwarf.title, marker);
         }
 
-        // wstawienie info window adapter
-        //  tworzy maly widok w postaci okna, ktory sie pokazuje po kliknieciu na marker
+        // tutaj ustawiany jest info window adapter
+        // on tworzy ten maly widok ktory sie pokazuje po kliknieciu na marker
         googleMap.setInfoWindowAdapter(new InfoWindowAdapter(this));
 
         googleMap.setOnInfoWindowClickListener(this);
 
-        // ustawienie zasięgu w taki sposób tak zeby bylo widac wszystkie markery
+        // ustawiam kamere tak zeby bylo widac wszystkie markery
         LatLngBounds bounds = builder.build();
         final CameraUpdate cu = CameraUpdateFactory.newLatLngBounds(bounds, 0);
         new Handler().postDelayed(new Runnable() {
